@@ -4,7 +4,7 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Changjiang Cai's Blog- 蔡长江的博客 </title>
+ <title>Changjiang Cai's Blog- 蔡博客 </title>
  <link href="http://ccj5351.github.io/blog/atom.xml" rel="self"/>
  <link href="http://ccj5351.github.io/blog"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
