@@ -8,7 +8,13 @@
     </url>
     {% endfor %}
 
-    {% for page in site.pages %}
+    {% for note in site.notes %}
+    <url>
+        <loc>http://ccj5351.github.io{{ note.url | remove: 'index.html' }}</loc>
+    </url>
+    {% endfor %}
+		
+		{% for page in site.pages %}
     {% if page.layout != nil %}
     {% if page.layout != 'feed' %}
     <url>
