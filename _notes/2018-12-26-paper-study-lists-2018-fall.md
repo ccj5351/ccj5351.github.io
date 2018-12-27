@@ -1,6 +1,7 @@
 ---
 layout: studynote
 title: "Paper Study List in 2018 Fall"
+permalink: /study/:year/:month/:day/:title
 comments: false
 date: 2018-12-26
 ---
