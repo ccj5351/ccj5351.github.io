@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : 
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/3613060/ccj5351"
@@ -143,6 +143,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+
 keep_files:
   - .git
   - .svn
@@ -176,9 +177,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  about:
     output: true
     permalink: /:collection/:path/
   blogs:
@@ -227,7 +225,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: about
     values:
       layout: single
       author_profile: true
