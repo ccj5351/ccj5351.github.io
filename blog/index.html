@@ -3,8 +3,8 @@ layout: default
 title: Changjiang Cai's Blog
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="posts"> <! -- see ul.posts in file css/main.css-->
-
+	<ul class="posts"> 
+		<! -- see ul.posts in file css/main.css-->
 		{% for post in site.posts %}
 		<li><span>{{ post.date | date_to_string }}</span> »  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endfor %}
