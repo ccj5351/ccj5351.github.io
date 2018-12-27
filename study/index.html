@@ -3,7 +3,7 @@ layout: default
 title: Changjiang Cai's Study Note
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="notes">
+	<ul class="posts">
 		{% for note in site.notes %}
 		<li><span>{{ note.date | date_to_string }}</span> »  <a href="{{ note.url }}" title="{{ note.title }}">{{ note.title }}</a></li>
 		{% endfor %}
