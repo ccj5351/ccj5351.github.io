@@ -26,7 +26,7 @@ The popular datasets for stereo matching include:
 
 | Images    | Height | Width | Max Disparity | vmin | vmax |
 | :-------  |:-----: |:----: | :-----------: |:----:|:----:|
-|Adirondack |  992   | 1436  |     145	     |  16  |  129 |
+|Adirondack |  992   | 1436  |    145	       |  16  |  129 |
 |ArtL       |  554   | 694   |	  128	       |  32  |  115 |
 |Jadeplant  | 994    | 1318  |    320	       |  11  |  298 |
 |Motorcycle | 994    | 1482  |	  140        |	15  |  129 |
@@ -46,8 +46,32 @@ The popular datasets for stereo matching include:
 
 - training data:
 
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
+| Images             | Height | Width | Max Disparity |
+| :----------------- |:-----: |:----: | :-----------: |
+| delivery_area_1s   | 435    |   711 |     711       |
+| electro_1l         | 	489   |	  927 | 	927   |
+| electro_2s         | 	435|	717|	717|
+| facade_1s          | 	425|	707|	707|
+| forest_1s          | 	441|	715|	715|
+| forest_2s          | 	440|	715|	715|
+| playground_1l| 	490|	941|	941|
+| playground_1s| 	436|	712|	712|
+| playground_2l| 	490|	941|	941|
+| playground_3l| 	490|	941|	941|
+| playground_3s| 	436|	712|	712|
+| terrains_1l| 	491|	940|	940|
+| terrains_1s| 	438|	713|	713|
+| terrains_2l| 	491|	940|	940|
+| terrains_2s| 	438|	713|	713|
+| playground_2s| 	436|	712|	712|
+| delivery_area_3l| 	489|	942|	942|
+| delivery_area_1l| 	489|	942|	942|
+| delivery_area_3s| 	435|	711|	711|
+| terrace_1s| 	434|	713|	713|
+| terrace_2s| 	434|	713|	713|
+| electro_2l| 	489|	927|	927|
+| delivery_area_2l| 	489|	942|	942|
+| delivery_area_2s| 	435|	711|	711|
+| electro_1s| 	435|	717|	717|
+| electro_3s| 	435|	717|	717|
+| electro_3l| 	489|	927|	927|
