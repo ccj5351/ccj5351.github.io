@@ -9,7 +9,20 @@
 	<title>{{ page.title }} | Changjiang Cai | Research on Computer Vision.</title>
 	<!-- styles -->
 	<link rel="stylesheet" type="text/css" href="/css/main.css">
-												
+  
+	<!--support latex in github-pages 
+	 > see https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages
+	-->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+	<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+	
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!--[if lt IE 9]>
 	<script src="../../assets/js/html5shiv.js"></script>
