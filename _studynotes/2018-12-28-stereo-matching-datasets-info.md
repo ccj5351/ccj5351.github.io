@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Stereo Matching Datasets Info"
 comments: false
 date: 2018-12-28
@@ -24,7 +25,7 @@ The popular datasets for stereo matching include:
 - trainingH:
 
 | Images    | Height | Width | Max Disparity | vmin | vmax |
-| :-------  |:-----: |:---- :| :------------:|:----:|:----:|
+| :-------  |:-----: |:----: | :-----------: |:----:|:----:|
 |Adirondack |  992   | 1436  |     145	     |  16  |  129 |
 |ArtL       |  554   | 694   |	  128	       |  32  |  115 |
 |Jadeplant  | 994    | 1318  |    320	       |  11  |  298 |
