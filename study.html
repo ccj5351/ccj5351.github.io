@@ -1,0 +1,10 @@
+---
+layout: default
+title: Changjiang's Study Note
+---
+	<h1>{{ page.title }}</h1>
+	<ul class="studynotes">
+		{% for studynote in site.studynotes %}
+		<li><span>{{ studynote.date | date_to_string }}</span> »  <a href="{{ studynote.url }}" title="{{ studynote.title }}" > {{ studynote.title }} </a></li>
+		{% endfor %}
+	</ul>
