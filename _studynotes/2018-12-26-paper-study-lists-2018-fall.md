@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Paper Study List in 2018 Fall"
 comments: true
 date: 2018-12-26
