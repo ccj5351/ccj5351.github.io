@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Just a test for markdown"
-permalink: /blog/:year/:month/:day/:title
 comments: true
 date: 2017-12-29
 ---
