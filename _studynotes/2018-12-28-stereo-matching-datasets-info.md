@@ -1,5 +1,5 @@
 ---
-title: "stereo matching datasets info"
+title: "Stereo Matching Datasets Info"
 comments: false
 date: 2018-12-28
 ---
@@ -42,6 +42,8 @@ The popular datasets for stereo matching include:
 |Vintage    | 960    | 1444  |	  380	     |17    |	362|
 
 ## ETH3D Info:
+
+- training data:
 
 | Priority apples | Second priority | Third priority |
 |-------|--------|---------|
