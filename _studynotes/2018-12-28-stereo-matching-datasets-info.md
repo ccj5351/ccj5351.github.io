@@ -24,7 +24,7 @@ The popular datasets for stereo matching include:
 
 - trainingH:
 
-| Images    | Height | Width | Max Disparity | vmin | vmax |
+| Images (including 15 images)   | Height | Width | Max Disparity | vmin | vmax |
 | :-------  |:-----: |:----: | :-----------: |:----:|:----:|
 |Adirondack |  992   | 1436  |    145	       |  16  |  129 |
 |ArtL       |  554   | 694   |	  128	       |  32  |  115 |
@@ -46,7 +46,7 @@ The popular datasets for stereo matching include:
 
 - training data:
 
-| Images             | Height | Width | Max Disparity |
+| Images (including 27 images) | Height | Width | Max Disparity |
 | :----------------- |:-----: |:----: | :-----------: |
 | delivery_area_1s   | 435    |   711 |     711       |
 | electro_1l         | 	489   |	  927 | 	927   |
