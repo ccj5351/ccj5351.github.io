@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Stereo Matching Datasets Info"
 comments: false
 date: 2018-12-28
