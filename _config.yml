@@ -119,7 +119,8 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
+  - files # added by CCJ;
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -178,6 +179,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  cv:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -223,5 +227,15 @@ defaults:
       share: true
       comments: true
 
+  # _cv
+  - scope:
+      path: ""
+      type: cv
+    values:
+      layout: page
+      author_profile: true
+      read_time: false
+      share: false
+      comments: false
 # global Outputting
 permalink: /:categories/:year/:month/:day/:title:output_ext
