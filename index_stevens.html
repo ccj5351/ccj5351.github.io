@@ -1,25 +1,29 @@
-﻿<!DOCTYPE html>
-<html>  
+﻿---
+layout: default
+title: Changjiang's Homepage
+---
+
+<html>
 <head>
 <meta charset="UTF-8">
 <title>Changjiang Cai - Homepage</title>
-<link href="style.css" rel="stylesheet" media="screen" />
-<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+<link href="files/style.css" rel="stylesheet" media="screen" />
+<link rel="shortcut icon" href="files/images/favicon.ico" type="image/x-icon"/>
 
  <!--[if lt IE 9]>
  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-<link href="lightbox/css/lightbox.css" rel="stylesheet" />       
-<script src="js/vendor/modernizr.min.js"></script>
-<script src="js/vendor/respond.min.js"></script>
+<link href="files/lightbox/css/lightbox.css" rel="stylesheet" />       
+<script src="files/js/vendor/modernizr.min.js"></script>
+<script src="files/js/vendor/respond.min.js"></script>
         
 <!-- include extern jQuery file but fall back to local file if extern one fails to load !-->
 <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
-<script type="text/javascript">window.jQuery || document.write('<script type="text/javascript" src="js\/vendor\/1.7.2.jquery.min"><\/script>')</script>
-<script src="lightbox/js/lightbox.js"></script>
-<script src="js/vendor/prefixfree.min.js"></script>
-<script src="js/vendor/jquery.slides.min.js"></script>
-<script src="js/script.js"></script>
+<script type="text/javascript">window.jQuery || document.write('<script type="text/javascript" src="files\/js\/vendor\/1.7.2.jquery.min"><\/script>')</script>
+<script src="files/lightbox/js/lightbox.js"></script>
+<script src="files/js/vendor/prefixfree.min.js"></script>
+<script src="files/js/vendor/jquery.slides.min.js"></script>
+<script src="files/js/script.js"></script>
          
         <script>
         $(function() {
@@ -58,83 +62,63 @@
 
 <body>
 <header>       
-            <h1>Changjiang CAI(<a href =  "http://blog.csdn.net/ccj5351/"
-target = "_blank" rel = "CSDN Blog">蔡长江</a>)</h1>
+	<h1>Changjiang CAI(蔡长江)<a href = "{% link _cv/ccj_cv_up_to_date.pdf %}" 
+			target = "_blank" rel = "ccj homepage">[CV]</a></h1>
             <p>Computer Vision Lab</p>           
-            
-            <nav>
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="research.html">Research</a></li>
-					<li><a>cv</a></li>
-                </ul>
-				<ul>                
-					<li><a href="study.html">Study</a></li>
-					<li><a href="aboutme.html">AboutMe</a></li>
-					<li><a href="news.html">news</a></li>
-                </ul>
-            </nav>
-        </header>
+  </header>
 		
 <section id="container">
-    <div id="wrapper">
-	<section class="container">
-	<div id="slider_content1">
-    </div>
-	<div id="slider_content2">
-    </div>
-	<div id="slider_content3">
-    </div>
-	<div id="slider_content4">
-    </div>
-	<div id="slides">
-                <img src="images/myhometown01.jpg" alt="My Hometown">
-                <img src="images/friends01.jpg" alt="Friends">    	
-                <img src="images/nyc01.jpg" alt="NYC">
-	        <img src="images/sanxingwushen.jpg" alt="NYC">
-    </div>
-	</section>
+  
+	
+	<div id="wrapper">
+		<section class="container">
+			<div id="slider_content1"> </div>
+			<div id="slider_content2"> </div>
+			<div id="slider_content3"> </div>
+			<div id="slider_content4"> </div>
+			<div id="slides">
+                <img src="files/images/myhometown01.jpg" alt="My Hometown">
+                <img src="files/images/friends01.jpg" alt="Friends">    	
+                <img src="files/images/nyc01.jpg" alt="NYC">
+	              <img src="files/images/sanxingwushen.jpg" alt="slogan">
+  </div>
+	
+		</section>
    
     <div id="page">
-		<div id="content">
-		        <div id="sidebar">
-		        <img src="images/1.jpg" width= "250" height = "250" class="rotateimg180" title="personal photo" id="fac_photo" />
+			<div id="content">
+				<div id="sidebar">
+		        <img src="files/images/1.jpg" width= "250" height = "250" class="rotateimg180" title="personal photo" id="fac_photo" />
         		<h3>Contact Information</h3>
         		<p>Computer Vision Lab<br>
-                   Room 217, Lieb Building<br>
-                   Stevens Institute of Technology<br>		
-  				   Phone (201)912-1947<br>
-  				   Email: ccai1@stevens.edu 				
-        	    </div>
-		        
-        	<p>I am working with <a href = "http://www.cs.stevens.edu/~ghua/" target = "_blank">Professor Gang Hua, </a> in the Computer Vision
-			Lab, at <a href = "http://www.stevens.edu" target = "_blank">Stevens Institute of Technology</a>. My research interests involve Computer 
-			Vision, Machine Learning, and Robotics. Now I am a master candidate, majoring in <a href = "http://www.stevens.edu/ses/ece" target = "_blank" >Electrical Engineering</a>. 
-			This my third semester at Stevens, and I am focusing on pursuing an Epitome-based project, and then writing my master thesis. Hopefully, I will continue with the following doctoral study next semester,
-            in the <a href = "http://www.stevens.edu/ses/cs" target = "_blank">Computer Science Department</a>, still at Stevens.</p>
+               Room 201, North Building<br>
+               Stevens Institute of Technology<br>
+  				     Email: ccai1 AT stevens dot edu
+        	  </div>
+     
+<h2> About Me </h2>
+<p>I am currently a Ph.D. candidate in Computer Science at <a href = "http://www.stevens.edu" target = "_blank"> Stevens Institute of Technology</a>, 
+working with <a href = "https://www.cs.stevens.edu/~mordohai/index.html" target = "_blank"> Professor Philippos Mordohai, </a> 
+in the field of computer vision and machine learning.
 			
-			<p>Before I came to enter Stevens, I had my undergraduate study and graduate study, at <a href = "http://www.nwpu.edu.cn/" target = "_blank">Northwestern Polytechnical University</a>, and 
-			<a href = "http://www.xjtu.edu.cn" target = "_blank">Xi'an Jiaotong University</a>, respectively, in China. But for the field of Computer Vision, 
+<p>Prior to attending Stevens, I received my Bachelor's Degree of Engineering from <a href = "http://www.nwpu.edu.cn/" target = "_blank">Northwestern Polytechnical University</a>, 
+and <a href = "http://www.xjtu.edu.cn" target = "_blank">Xi'an Jiaotong University</a>, and pursued respectively, in China. But for the field of Computer Vision, 
 			I am still a rookie. Now it does be time for me to start my own research career in this field.</p> 
 
 
         </div>
 	</div>
     </div>
-    <div id="footer">
+
+
+<div id="footer">
 		<section id="copyright">
                 <div class="wrapper">
-                    <div class="social">
-                        <a href="https://www.youtube.com/" target = "_blank"><img src="images/YouTube-32-icon.png" alt="Youtube" width="32"/></a>
-                        <a href="https://twitter.com/" target = "_blank"><img src="images/Twitter-32-icon.png" alt="Twitter" width="32"/></a>
-                        <a href="http://www.weibo.com/" target = "_blank"><img src="images/Weibo-32-icon.png" alt="Sina Weibo" width="32"/></a>
-                        <a href="https://www.facebook.com/" target = "_blank"><img src="images/facebook-blue-32-icon.png" alt="Facebook" width="32"/></a>
-						<a href="https://www.amazon.com/" target = "_blank"><img src="images/Amazon-32-icon.png" alt="Facebook" width="32"/></a>
-                    </div>
-                    &copy; Copyright 2014-2017 by Changjiang CAI - 蔡长江. All Rights Reserved.
+                    &copy; Copyright 2014-2019 by Changjiang CAI - 蔡长江. All Rights Reserved.
                 </div>
-        </section>
-    </div>
+    </section>
+</div>
 </section>
+
 </body>
 </html>
