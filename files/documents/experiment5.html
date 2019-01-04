@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>Research</title>
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+<base href="http://personal.stevens.edu/~ccai1/" target="_blank">
+<link href="styleforSubPage.css" rel="stylesheet" media="screen" />
+
+</head>
+
+<body>
+<div id = "container">
+<div id = "page">
+
+<h1> <a href = "index.html" target="_self">Back to HomePage</a></h1>
+<hr>
+<h1> 1. Rate-Distortion Result</h1>
+<p><b>1.1 Category of <a href = https://www.flickr.com/photos/125543127@N05/sets/72157648389805179/ >Empire-State-Building </a></b> </p>
+<p> <b>Rate-Distortion result </b>, see the following 2 figures:</p>
+<img src="images/rate-distortion/psnr-bbp-Empire-8-bit.png" style="float: left; height: 18em; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="images/rate-distortion/psnr-cr-Empire-8-bit.png" style="float: left; height: 18em;  margin-right: 1%; margin-bottom: 0.5em;">
+
+<p style="clear: both;"><br><br>
+<b>Residual images result</b>,for different compression quality (cq), see the following 3 figures: <b>194KB(left,cq=5), 771KB(middle, cq=60), and 7485KB(right, cq=100)</b></p>
+<img src="images/rate-distortion/error-8-bit/recon_error_Empire_01-cq-005.jpg" style="float: left; height: 18em;  margin-right: 1%; margin-bottom: 0.5em;">
+<img src="images/rate-distortion/error-8-bit/recon_error_Empire_01-cq-060.jpg" style="float: left; height: 18em;  margin-right: 1%; margin-bottom: 0.5em;">
+<img src="images/rate-distortion/error-8-bit/recon_error_Empire_01-cq-100.jpg" style="float: left; height: 18em;  margin-right: 1%; margin-bottom: 0.5em;">
+
+<p style="clear: both;"><br><br>
+<b>Residual images histogram</b>,for different compression quality (cq), see the following 3 figures for valid intensity ranges: 
+<ul><b><li>[108,128], with intensity of 128 possessing the maximal frequency(up,cq=5); </li>
+<li>[113,134], with intensity of 126 possessing the maximal frequency(middle, cq=60);</li>
+<li>[111,140], with intensity of 126 possessing the maximal frequency(down, cq=100)</li></b></ul></p>
+<img src="images/rate-distortion/error-8-bit/hist_recon_error_Empire_01-cq-005.jpg" style="float: left; width: 60em;  margin-right: 1%; margin-bottom: 0.5em;">
+<img src="images/rate-distortion/error-8-bit/hist_recon_error_Empire_01-cq-060.jpg" style="float: left; width: 60em;  margin-right: 1%; margin-bottom: 0.5em;">
+<img src="images/rate-distortion/error-8-bit/hist_recon_error_Empire_01-cq-100.jpg" style="float: left; width: 60em;  margin-right: 1%; margin-bottom: 0.5em;">
+
+<p style="clear: both;"><br><br>
+<p> <b>JPEG-compressed images result</b>,for different cq, see the following 3 figures: <b>249KB(left,cq=5), 1006KB(middle, cq=60), and 8392KB(right, cq=100)</b></p>
+<img src="images/rate-distortion/error-8-bit/recon_jpeg-Empire_01-cq-005.jpg" style="float: left; height: 18em;  margin-right: 1%; margin-bottom: 0.5em;">
+<img src="images/rate-distortion/error-8-bit/recon_jpeg-Empire_01-cq-060.jpg" style="float: left; height: 18em;  margin-right: 1%; margin-bottom: 0.5em;">
+<img src="images/rate-distortion/error-8-bit/recon_jpeg-Empire_01-cq-100.jpg" style="float: left; height: 18em;  margin-right: 1%; margin-bottom: 0.5em;">
+
+<p style="clear: both;"><br><br>
+<p><a href = https://www.flickr.com/photos/125543127@N05/sets/72157648808961025/><b>Our method images result</b></a>,with different cq to the residual, see the following 3 figures: <b>(Note: their size is not important, the only data that matters is the error images 
+and the epitome information of this category images.)</b></b></p>
+<img src="images/rate-distortion/error-8-bit/recon_ours-Empire_01-cq-005.png" style="float: left; height: 18em;  margin-right: 1%; margin-bottom: 0.5em;">
+<img src="images/rate-distortion/error-8-bit/recon_ours-Empire_01-cq-060.png" style="float: left; height: 18em;  margin-right: 1%; margin-bottom: 0.5em;">
+<img src="images/rate-distortion/error-8-bit/recon_ours-Empire_01-cq-100.png" style="float: left; height: 18em;  margin-right: 1%; margin-bottom: 0.5em;">
+
+<p style="clear: both;"><br><br><hr><b>1.2 Category of Howe Center (Coming Soon)</a></b> </p>
+
+
+<hr><h1> 2. Result Analysis</h1>
+<p> <b>Note:</b> </p>
+<p>
+<ul>
+  <li>The Epitome-related data only includes the Mean, without the row-column indices, since the indices can be learned during the inference process with the input image(s).</li>
+<li>The residual images have been reduced, after an appropriate normalization is adopted, i.e. intensity 0 maps to 127, and the maximal absolute intensity (i.e., positive and nagative) maps to 255 and 0.
+      So the residual iamges are encoded in 8-bit, i.e., 0 - 255 intensities. </li>
+	<li>Other encoding method with less bits will be tried to represent the residual images, in order to further reduce their size. </li> 
+  </ul>
+</p> 
+
+
+</div>
+
+<div id = "footer">
+<hr>
+&copy; Copyright 2014 by Changjiang CAI - 蔡长江. All Rights Reserved. 
+</div>
+</div>
+</body>
+</html>
