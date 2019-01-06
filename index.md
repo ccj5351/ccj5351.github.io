@@ -3,11 +3,6 @@ layout: homepage
 title: Changjiang's Homepage
 ---
 
-## News
-
-2019/01/04 : New homepage established.
-
-- 2019/01/04 : New homepage established.
 
 ## About Me
 
