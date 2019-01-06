@@ -3,6 +3,12 @@ layout: homepage
 title: Changjiang's Homepage
 ---
 
+## News
+
+2019/01/04 : New homepage established.
+
+- 2019/01/04 : New homepage established.
+
 ## About Me
 
 I am currently a Ph.D. candidate in Computer Science at <a href = "http://www.stevens.edu" target = "_blank"> Stevens Institute of Technology</a>, 
@@ -15,3 +21,7 @@ and pursued Master's Degree at <a href = "http://www.xjtu.edu.cn" target = "_bla
 - I am currently a Ph.D. candidate in the Computer Science Department at Stevens Institute of Technology. [Curriculum Vitae Curriculum]({% link _cv/ccj_cv_up_to_date.pdf %})
 
 - Previously 
+
+## News
+
+- 2019/01/04 : New homepage established.

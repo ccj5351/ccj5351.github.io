@@ -4,8 +4,12 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Changjiang Cai - Homepage</title>
-		<link href="files/style.css" rel="stylesheet" media="screen" />
-		<!-- link href="/css/main.css"   rel="stylesheet" media="screen" --/>
+		<!-- link rel="stylesheet" href="files/css/academicons.min.css"/ -->
+		<!-- link rel="stylesheet" href="files/css/academicons.css"/ -->
+		<!-- link rel="stylesheet" href="files/css/sidebar.css"/ -->
+		<link rel="stylesheet" href="files/style.css" media="screen" />
+
+		<!-- link href="/css/main.css"   rel="stylesheet" media="screen" -->
 		<link rel="shortcut icon" href="files/images/favicon.ico" type="image/x-icon"/>
 		<link href="files/lightbox/css/lightbox.css" rel="stylesheet" /> 
 		<script src="files/js/vendor/modernizr.min.js"></script>
@@ -39,10 +43,11 @@
 		<nav>
 			<ul>
 				<li><a href="/">Home</a></li>
-				<li><a href="/cv">Curriculum Vitae</a></li>
-				<li><a href="/publication"> Publications</a></li>
-				<li><a href="/blog">Blog Posts</a></li>
-				<li><a href="/study">Study Notes</a></li>
+				<!--li><a href="/cv"> Curriculum Vitae </a></li -->
+				<li><a href="/project">Projects</a></li>
+				<li><a href="/publication">Publications</a></li>
+				<li><a href="/blog">Blog</a></li>
+				<li><a href="/study">StudyNotes</a></li>
 			</ul>
 		</nav>
 		</header>
@@ -66,8 +71,9 @@
 				<div id="page">
 					<div id="content">
 						<div id="sidebar">
-							<img src="files/images/1.jpg" width= "250" height = "250" class="rotateimg180" title="personal photo" id="fac_photo" />
-							
+
+							<!--img src="files/images/1.jpg" width= "250" height = "250" class="rotateimg180" title="personal photo" id="fac_photo" -->
+							{% include sidebar.html %}
 							<h3>Contact Information</h3>
 							<p>Computer Vision Lab<br> 
 							   Room 201, North Building<br>
@@ -77,17 +83,6 @@
 						
 						{{ content }}
 						
-						<h2> About Me </h2>
-						<p>I am currently a Ph.D. candidate in Computer Science at <a href = "http://www.stevens.edu" target = "_blank"> Stevens Institute of Technology</a>, 
-						working with <a href = "https://www.cs.stevens.edu/~mordohai/index.html" target = "_blank"> Professor Philippos Mordohai, </a> 
-						in the field of computer vision and machine learning.
-						</p>
-						<p>Prior to attending Stevens, I received my Bachelor's Degree of Engineering from <a href = "http://www.nwpu.edu.cn/" target = "_blank"> Northwestern Polytechnical University</a>,
-						and pursued Master's Degree at <a href = "http://www.xjtu.edu.cn" target = "_blank">Xi'an Jiaotong University</a> in China. 
-						</p> 
-						<p>Prior to attending Stevens, I received my Bachelor's Degree of Engineering from <a href = "http://www.nwpu.edu.cn/" target = "_blank"> Northwestern Polytechnical University</a>,
-						and pursued Master's Degree at <a href = "http://www.xjtu.edu.cn" target = "_blank">Xi'an Jiaotong University</a> in China. 
-						</p> 
 					</div>
 				</div>
 			</div>
@@ -95,13 +90,6 @@
 			<div id="footer">
 				<section id="copyright">
 	 				<div class="wrapper">
-						<div class="social">
-							<ul>
-								<li><a href="https://scholar.google.com/citations?user=3z8yQkQAAAAJ&hl=en">Google Scholar</a></li>
-								<li><a href="https://stackoverflow.com/users/3613060/ccj5351?tab=profile">Stackoverflow</a></li>
-								<li><a href="https://github.com/ccj5351">Github</a></li>
-							</ul>
-						</div>
 						&copy; Copyright 2014-2019 by Changjiang CAI - 蔡长江. All Rights Reserved.
           </div>
 				</section>

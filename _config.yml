@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "CCJ" #"Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : ""
-  location         : "Location"
+  name             : "Changjiang Cai" #"Your Sidebar Name"
+  avatar           : "1.jpg"
+  bio              : "Ph.D. at Stevens"
+  location         : "Stevens, Hoboken, NJ, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=3z8yQkQAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
+  bitbucket        :  "changjiang_cai"
   codepen          :
   dribbble         :
   flickr           :
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : 
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/3613060/ccj5351"

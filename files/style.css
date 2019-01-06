@@ -21,14 +21,20 @@ img { border:none; }
 
 body {
       width : 70%;
-			margin: 0 auto 60px auto;/*top, right, bottom, left margin, respectively*/
+			margin: 0 auto 0px auto;/*top, right, bottom, left margin, respectively*/
       /*max-width: 960px; */
       /*margin: 0 auto 20px auto;*/
-      border-top: 10px solid #e56038;
+      /*border-top: 20px solid #e56038;*/
+      border-top: 20px solid #4ABDAC;
       background-position: left top;
-      background-color: #585858;
-      font-family: 'Open Sans', 'Sans-Serif', 'Arial';
-      color: #333333; 
+      /*background-color: #585858;*/
+      /*background-color: #C09F80;*/
+      /*background-color: #D7CEC7;*/
+      background-color: #565656;/*#DCD0C0;*/
+      /*font-family: 'Open Sans', 'Sans-Serif', 'Arial';*/
+      font-family: "Times New Roman", Times, serif;
+			/* Hex gray 20*/ 
+      color: #333333; /* color of fonts*/ 
 }
 
 
@@ -36,11 +42,14 @@ body {
 
 header
 {
-      border-bottom: 10px solid #F79F81;
+      /*border-bottom: 20px solid #F79F81;*/
+      /*border-bottom: 20px solid #0375B4;*/
+      border-bottom: 20px solid #FFCE00;
 	    position:relative;
 	    background-color: #ebe8de;
-      width:auto;
-      max-width:960px;
+			width: 100%;
+      /*width:auto;
+      max-width:960px;*/
       margin: 0 auto 0px auto;
 }
 
@@ -101,7 +110,7 @@ nav ul li a:hover
 nav ul li
 {
       display:inline;
-      padding: 20px;
+      padding: 10px 20px;
 }
 
 
@@ -109,6 +118,7 @@ nav ul li a
 { 
 	    text-decoration: none;
 	    color: #999;
+			font-size: 24px;
 }
 
 nav ul li a:hover
@@ -117,8 +127,8 @@ nav ul li a:hover
 }
 
 #container {
-	    width: auto;
-			max-width:960px;
+	    width: 100%;
+			/*max-width:960px;*/
 			margin:0, auto;
 			font-size:18px;
 			position: relative;
@@ -127,6 +137,10 @@ nav ul li a:hover
 
 
 #wrapper {
+	    /*box-shadow: 0 0 5px #222;
+			-webkit-box-shadow: 0 0 5px #222;
+			-moz-box-shadow: 0 0 5px #222;
+			 */
 	    box-shadow: 0 0 5px #222;
 			-webkit-box-shadow: 0 0 5px #222;
 			-moz-box-shadow: 0 0 5px #222;
@@ -149,7 +163,7 @@ nav ul li a:hover
 /* Prevent the slideshow from flashing on load */
 .slidesjs-container
 {
-      border-top: 1px #d6d0c1 solid;
+      border-top: 0px #d6d0c1 solid;
 }
 
 #slides
@@ -174,14 +188,22 @@ nav ul li a:hover
 
 #page {
 	background-image: url(images/bg.png);
+	/*background-image: url(images/bg-3-blackboard-school.jpg);*/
+	/*background-image: url(images/bg-4-playing-basketball.jpg);*/
+	/*background-size: 100% auto; cover*/
 	background-repeat: repeat;
 	background-color:#EEE;
-	border-top: 10px solid #FF8000;
+	/*filter: blur(8px);
+	-webkit-filter: blur(8px);*/
+	/*border-top: 40px solid #FF8000;*/
+	border-top: 20px solid #007849;
+	border-bottom: 20px solid #262228;
 	overflow:auto;
-	padding:15px 0; /*top and bottom margins are 15px; right and left margins are 0px*/
+	padding:15px 20px; /*top and bottom margins are 15px; right and left margins are 0px*/
 	clear: both;
 	position: relative;
-	top: -6px;
+	margin:0px 0px 0px 0px;
+	top: -10px; /*adjust the distance to images/slides*/
 	/*-moz-border-radius-bottomleft:10px;
 	-webkit-border-bottom-left-radius:10px;
 	-moz-border-radius-bottomright:10px;
@@ -191,12 +213,12 @@ nav ul li a:hover
 }
 
 #sidebar {
-	min-width:210px;
-	margin:0 15px;
+	min-width:200px;
+	margin:10px 50px;
 	float:right;
 	line-height:100%;
-	background-color:#EEE;
-	border: 2px solid #E5E5E5;
+	/*background-color:#EEE;*/
+	border: 5px solid #E5E5E5;
 }
 
 #sidebar h3{
@@ -205,20 +227,25 @@ nav ul li a:hover
 }
  
 #sidebar p {
-    margin: -15px 0 0 0;
-	padding: 0 0 0 10px;
+    margin: -15px 0 0 0; /*top, right, bottom, left margin, respectively*/
+	  padding: 0 0 0 10px;
 }
 
-#fac_photo {margin-left:auto; margin-right:auto; display:block; padding:10px;}
+#fac_photo {
+	margin-left:auto; margin-right:auto; 
+	display:block; padding:10px;
+	border-radius: 50%;
+}
 
 #content {
 	margin-left:20px;
 	margin-right:20px;
 	padding-left: 20px;
-	line-height:160%;
+	line-height: 140%;
 }
 
 #content p{
+	 font-family:"Times New Roman", Times, serif;
    padding-top:30px;
    padding-right: auto;
    text-align: justify;
@@ -227,7 +254,7 @@ nav ul li a:hover
 
 #footer {
   width:auto;
-	max-width: 960px;
+	/*max-width: 960px;*/
   background:#333333;
   position: relative;
 	top: 15px;
@@ -237,7 +264,8 @@ nav ul li a:hover
 
 #copyright
 {
-        background:black;
+        /*background:black;*/
+        background:white;
         height:70px;
         position:absolute;
         bottom:0;
