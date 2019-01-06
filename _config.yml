@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Changjiang Cai" #"Your Sidebar Name"
-  avatar           : "3.jpg"
+  avatar           : "1.jpg"
   bio              : "Ph.D. at Stevens"
   location         : "Stevens, Hoboken, NJ, USA"
   employer         :
@@ -104,7 +104,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/3613060/ccj5351"
+  stackoverflow    : "ccj5351"
   steam            :
   tumblr           :
   twitter          :

@@ -7,11 +7,10 @@
 		<!-- link rel="stylesheet" href="files/css/academicons.min.css"/ -->
 		<!-- link rel="stylesheet" href="files/css/academicons.css"/ -->
 		<!-- link rel="stylesheet" href="files/css/sidebar.css"/ -->
+		<!--link rel="stylesheet" href="files/bootstrap-social-gh-pages/bootstrap-social.css"/-->
 		<link rel="stylesheet" href="files/css/academicons.min.css" />
-		<link rel="stylesheet" href="files/css/academicons.css" />
-		<link rel="stylesheet" href="files/bootstrap-social-gh-pages/bootstrap-social.css"/>
-		<link rel="stylesheet" href="files/fontawesome-free-5.6.3-web/css/fontawesome.min.css"/>
-		<link rel="stylesheet" href="files/bootstrap/css/bootstrap.min.css"/>
+	  <link href="files/fontawesome-free-5.6.3-web/css/all.css" rel="stylesheet"> <!--load all styles -->
+		<!--link rel="stylesheet" href="files/bootstrap/css/bootstrap.min.css"/-->
 		<link rel="stylesheet" href="files/style.css" media="screen" />
 
 		<!-- link href="/css/main.css"   rel="stylesheet" media="screen" -->
@@ -43,7 +42,7 @@
 	<body>
 	  <!--The <header> element represents a container for introductory content or a set of navigational links. -->
 		<header> 
-			<h1>Changjiang CAI(蔡长江)<a href = "{% link _cv/ccj_cv_up_to_date.pdf %}" target = "_blank" rel = "ccj homepage">[CV]</a></h1>
+			<h1>Changjiang CAI  蔡长江 <a href = "{% link _cv/ccj_cv_up_to_date.pdf %}" target = "_blank" rel = "ccj homepage">[CV]</a></h1>
 			<p>Computer Vision Lab</p>
 		<nav>
 			<ul>
@@ -68,8 +67,9 @@
 					<div id="slides">
 						<img src="files/images/myhometown01.jpg" alt="My Hometown">
             <! -- img src="files/images/friends01.jpg" alt="Friends" -->    	
+            <img src="files/images/stevens-campus-2018.JPG" alt="Stevens Campus">    	
             <img src="files/images/nyc01.jpg" alt="NYC">
-	          <img src="files/images/sanxingwushen.jpg" alt="slogan">
+	          <!-- img src="files/images/sanxingwushen.jpg" alt="slogan"-->
 					</div>
 				</section>
 				
@@ -81,14 +81,12 @@
 							<!-- {% include sidebar.html %} -->
 							<h3>Changjiang Cai</h3>
 							<p>Ph.D. Candidate at Stevens<br> 
-							   Room 201, North Building<br>
-                 Stevens Institute of Technology<br>
-  				       Email: ccai1 AT stevens dot edu<br>
-
-							<a class="btn btn-social-icon btn-github">
-								<span class="fa fa-github"></span> Github
-							</a>
-
+							 <li><i class="fas fa-envelope"></i> Email: ccai1 at stevens dot edu </li>
+							 <li><i class="fas fa-map-marker-alt"></i> Hoboken, NJ, USA </li>
+							 <li><a href="{{ author.googlescholar }}" target = "_blank"><i class="ai ai-google-scholar-square ai-1x"></i> Google Scholar</a></li> 
+							 <li><a href="https://github.com/{{author.github }}" target = "_blank"><i class="fab fa-github-square"></i> Github</a></li> 
+							 <li><a href="https://bitbucket.org/{{author.bitbucket}}" target = "_blank"><i class="fab fa-bitbucket"></i> Bitbucket</a></li> 
+							 <li><a href="https://www.stackoverflow.com/users/{{author.stackoverflow}}" target = "_blank"><i class="fab fa-stack-overflow"></i> Stackoverflow</a></li> 
 						</div>
 						
 						{{ content }}
@@ -100,7 +98,13 @@
 			<div id="footer">
 				<section id="copyright">
 	 				<div class="wrapper">
-						&copy; Copyright 2014-2019 by Changjiang CAI - 蔡长江. All Rights Reserved.
+						<div class="social">
+							<a href="https://www.youtube.com/" target = "_blank"><img src="files/images/YouTube-32-icon.png" alt="Youtube" width="32"/></a>
+							<a href="https://twitter.com/" target = "_blank"><img src="files/images/Twitter-32-icon.png" alt="Twitter" width="32"/></a>
+							<a href="http://www.weibo.com/" target = "_blank"><img src="files/images/Weibo-32-icon.png" alt="Weibo" width="32"/></a>
+							<a href="https://www.facebook.com/" target = "_blank"><img src="files/images/facebook-blue-32-icon.png" alt="Facebook" width="32"/></a>
+						</div>
+						&copy; Welcome to Changjiang's homepage. By Changjiang CAI - 蔡长江 since 2014.
           </div>
 				</section>
 			</div>
