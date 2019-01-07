@@ -203,7 +203,7 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: pages
     values:
-      layout: default # corresponding to the _layout/post.html file;
+      layout: homepage # corresponding to the _layout/post.html file;
       author_profile: true
   
   # _publications
@@ -211,7 +211,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: default
+      layout: homepage
       author_profile: true
       share: true
       comments: false
@@ -232,7 +232,7 @@ defaults:
       path: ""
       type: cv
     values:
-      layout: page
+      layout: homepage
       author_profile: true
       read_time: false
       share: false

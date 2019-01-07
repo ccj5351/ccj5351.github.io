@@ -37,6 +37,23 @@
           });
         });
     </script>
+
+    <!--support latex in github-pages
+			 see https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages
+	  -->
+		 <script type="text/x-mathjax-config">
+       MathJax.Hub.Config({
+        tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+          }
+        });
+     </script>
+	   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+     
+		 <!-- google analytics - i will not share this data with google -->
+		 {% include google_analytics.html %}
+
 	</head>
 
 	<body>
@@ -76,12 +93,12 @@
 				<div id="page">
 					<div id="content">
 						<div id="sidebar">
-							<img src="files/images/1.jpg" width= "250" height = "250" class="rotateimg180" title="personal photo" id="fac_photo" >
+							<img src="files/images/1.jpg" width= "200" height = "200" class="rotateimg180" title="personal photo" id="fac_photo" >
 
 							<!-- {% include sidebar.html %} -->
 							<h3>Changjiang Cai</h3>
 							<p>Ph.D. Candidate at Stevens<br> 
-							 <li><i class="fas fa-envelope"></i> Email: ccai1 at stevens dot edu </li>
+							 <li><i class="fas fa-envelope"></i> Email: ccai1 AT stevens.edu </li>
 							 <li><i class="fas fa-map-marker-alt"></i> Hoboken, NJ, USA </li>
 							 <li><a href="{{ author.googlescholar }}" target = "_blank"><i class="ai ai-google-scholar-square ai-1x"></i> Google Scholar</a></li> 
 							 <li><a href="https://github.com/{{author.github }}" target = "_blank"><i class="fab fa-github-square"></i> Github</a></li> 
@@ -104,7 +121,9 @@
 							<a href="http://www.weibo.com/" target = "_blank"><img src="files/images/Weibo-32-icon.png" alt="Weibo" width="32"/></a>
 							<a href="https://www.facebook.com/" target = "_blank"><img src="files/images/facebook-blue-32-icon.png" alt="Facebook" width="32"/></a>
 						</div>
-						&copy; Welcome to Changjiang's homepage. By Changjiang CAI - 蔡长江 since 2014.
+						&copy; Welcome to Changjiang's homepage. By Changjiang CAI - 蔡长江 since 2014 
+							<!--img src="files/images/wordmark.jpg" width= auto height = 14 title="CCJ"-->
+
           </div>
 				</section>
 			</div>

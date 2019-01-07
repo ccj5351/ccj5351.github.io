@@ -269,7 +269,8 @@ nav ul li a:hover
 	margin-left:20px;
 	margin-right:20px;
 	padding-left: 20px;
-	line-height: 140%;
+	/*line-height: 140%;*/
+	line-height: 100%;
 }
 
 #content p{

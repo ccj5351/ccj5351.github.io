@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: homepage
 title: Changjiang's Projects
 ---
 
-# WIP
+# Changjiang's Projects 
+
+- Under in construction
