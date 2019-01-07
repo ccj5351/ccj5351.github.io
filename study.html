@@ -4,7 +4,7 @@ title: Changjiang's Paper Study Notes
 ---
 	<h1>{{ page.title }}</h1>
 	<ul class="posts">
-		{% for studynote in site.studynotes %}
+		{% for studynote in site.studynotes reversed %}
 		<li><span>{{ studynote.date | date_to_string }}</span> »  <a href="{{ studynote.url }}" title="{{ studynote.title }}" > {{ studynote.title }} </a> </li>
 		{% endfor %}
 	</ul>
