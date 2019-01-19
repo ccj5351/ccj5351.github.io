@@ -17,7 +17,6 @@ The popular datasets for stereo matching include:
 - Scene Flow: $\approx$ 39k stereo frames in $960 \times 540$ pixel resolution.
  - Total Image # : 35454;
  - Image # with disparity $\geq 256$ : 6555, i.e., $ 6555 / 35454 = 18.49%$
-
 - KITTI : KITTI 12 and KITTI 15, roughtly with size $1240 \times 388$.
  - Disparity : $d \leq 255$
 - ETH3D : See the following table-1. According to its website, no information about the disparity range is provided: the 
