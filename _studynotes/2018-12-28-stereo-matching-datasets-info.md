@@ -15,14 +15,16 @@ The popular datasets for stereo matching include:
 ## Statistics Info
 
 - Scene Flow: $\approx$ 39k stereo frames in $960 \times 540$ pixel resolution.
- - Total Image # : 35454;
- - Image # with disparity $\geq 256$ : 6555, i.e., $ 6555 / 35454 = 18.49\%$
- - Image # with disparity $\geq 192$ : 7996, i.e., $ 7996 / 35454 = 22.55\%$
+  - Total Image # : 35454;
+  - Image # with disparity $\geq 256$ : 6555, i.e., $ 6555 / 35454 = 18.49\%$
+  - Image # with disparity $\geq 192$ : 7996, i.e., $ 7996 / 35454 = 22.55\%$
+  - So we should **exclude** the pixel whose disparity is larger than 256, in the **loss** function for network training.
+
 - KITTI : KITTI 12 and KITTI 15, roughtly with size $1240 \times 388$.
- - Disparity : $d \leq 255$
-- ETH3D : See the following table-1. According to its website, no information about the disparity range is provided: the 
+  - Disparity : $d \leq 255$
+- ETH3D : See the following tables. According to its website, no information about the disparity range is provided: the 
 corresponding field is set to the **image width**.
-- Middlebury V3: see the following table-2.
+- Middlebury V3: see the following tables.
 
 
 ## Middlebury V3 Info :
