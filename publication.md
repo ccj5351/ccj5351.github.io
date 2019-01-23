@@ -3,7 +3,7 @@ layout: homepage
 title: Changjinag's Publications
 ---
 
-# Changjinag's Publications
+# Changjinag's Publications - [\[Google Scholar Profile\]](https://scholar.google.com/citations?user=3z8yQkQAAAAJ&hl=en)
 
 - > CBMV: A coalesced bidirectional matching volume for disparity estimation  
     Konstantinos Batsos, **Changjiang Cai**, Philippos Mordohai  
