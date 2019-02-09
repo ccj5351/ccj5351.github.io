@@ -22,6 +22,7 @@ title: Changjinag's Publications
 - > An Egocentric Computer Vision based Co-Robot Wheelchair.  
     Haoxiang Li, Mohammed Kutbi, Xin Li, **Changjiang Cai**, Philippos Mordohai, Gang Hua  
     IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2016.  
+    [**pdf**](https://www.cs.stevens.edu/~mordohai/public/Li_EgocentricVisionWheelchair16.pdf), [**video**](https://www.youtube.com/watch?v=iqKp9Z0hNqI)  
 
 ---
 
