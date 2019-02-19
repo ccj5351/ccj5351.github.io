@@ -87,5 +87,5 @@ Shown are the left views at 100%; moving the mouse over the images shows the cor
 - terrains_2l  
 <a href="#" id="terrains_2l"> <img title="terrains_2l" src="/files/stereo-datasets/ETH3D/two_view_training/image_0/terrains_2l.png" onmouseover="this.src='/files/stereo-datasets/ETH3D/two_view_training/image_1/terrains_2l.png'" onmouseout="this.src='/files/stereo-datasets/ETH3D/two_view_training/image_0/terrains_2l.png'"/></a>
 
-- terrains_2s.png
+- terrains_2s.png  
 <a href="#" id="terrains_2s"> <img title="terrains_2s" src="/files/stereo-datasets/ETH3D/two_view_training/image_0/terrains_2s.png" onmouseover="this.src='/files/stereo-datasets/ETH3D/two_view_training/image_1/terrains_2s.png'" onmouseout="this.src='/files/stereo-datasets/ETH3D/two_view_training/image_0/terrains_2s.png'"/></a>
