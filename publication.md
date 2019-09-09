@@ -8,7 +8,7 @@ title: Changjinag's Publications
 - > CBMV: A coalesced bidirectional matching volume for disparity estimation  
     Konstantinos Batsos, **Changjiang Cai**, Philippos Mordohai  
     IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018  
-    [**pdf**](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0598.pdf), [**code**](https://github.com/kbatsos/CBMV/tree/master), [**poster**]({% link files/documents/cbmv_poster_cvpr2018.pdf %})
+    [**pdf**]({ % link files/cvpr-cbmv-2019/Batsos_CBMV_A_Coalesced_CVPR_2018_paper.pdf %}), [**supp**]({% link files/cvpr-cbmv-2019/supplement.pdf %}), [**video**]({% link files/cvpr-cbmv-2019/CBMV.mp4 %}), [**code**](https://github.com/kbatsos/CBMV/tree/master), [**poster**]({% link files/documents/cbmv_poster_cvpr2018.pdf %})
 
 ---
 
@@ -25,6 +25,3 @@ title: Changjinag's Publications
     [**pdf**](https://www.cs.stevens.edu/~mordohai/public/Li_EgocentricVisionWheelchair16.pdf), [**video**](https://www.youtube.com/watch?v=iqKp9Z0hNqI)  
 
 ---
-
-
-
