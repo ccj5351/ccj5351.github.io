@@ -20,6 +20,7 @@ in China.
 
 
 ## News
+- 2019/11/15 : Two papers submitted to CVPR 2020, fingers crossed!
 - 2019/05/21-2019/08/21 : Had a summer intern at [UII America](https://www.linkedin.com/company/uii-america-inc/) in Cambridge, MA, supvervised by Dr. [Ziyan Wu](http://wuziyan.com/)
 - 2019/01/04 : New homepage established powered by Githubpage and Jekyll.
 - 2018/12/05 : Passed Ph.D. oral qualifying exam.
