@@ -112,8 +112,9 @@ in Proc. </span><em><span class="style14">IEEE Conf. on Computer Vision and Patt
 <tr>
 <td style="width: 550px">
 <p> </p>
-<img alt="assistive robot 1" src="files/assistive-robot/assistive robot 01.jpg" width="245">
-<img alt="assistive robot 2" src="files/assistive-robot/assistive robot 02.jpg" width="265">
+<img alt="assistive robot 1" src="files/assistive-robot/assistive-robot-01.jpg" width="133">
+<img alt="assistive robot 2" src="files/assistive-robot/assistive-robot-02.jpg" width="143">
+<img alt="assistive robot 2" src="files/assistive-robot/driving-system-3D-model.jpg" width="239">
 </td>
 
 <td class="style6" style="width: 612px"> 
