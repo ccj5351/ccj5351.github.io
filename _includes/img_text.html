@@ -1,0 +1,17 @@
+<!-- see: https://talk.jekyllrb.com/t/inclusion-image-on-left-side-and-text-on-the-right-side-using-markdown-in-jekyll-site/3413/11 -->
+
+<!--Start List of Projects-->
+<link rel="stylesheet" type="text/css" href="/css/proj.css">
+<div class="flex-row">
+    <div class="flex-item flex-item-stretch flex-column">
+        <img class="image max-width-x" src="{{ include.image_path }}">
+    </div>
+    <div class="flex-item flex-item-stretch-4 flex-column">
+        <p class="text">
+            <a class="highlight-text" href="javascript:void(0)">
+                {{ include.title }}
+            </a> <br> {{ include.description | markdownify }}
+        </p>
+    </div>
+</div>
+<!--End List of Projects-->
