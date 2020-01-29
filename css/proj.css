@@ -1,0 +1,107 @@
+/* newly added for _includes/project.html
+ > see: https://github.com/yenchiah/project-website-template/blob/master/css/frame.css
+*/
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: stretch;
+  box-sizing: border-box;
+}
+
+
+.flex-item-stretch {
+  flex: 1 auto;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: stretch;
+  box-sizing: border-box;
+}
+
+.flex-item-stretch-4 {
+  flex: 1 auto;
+}
+
+.flex-item {
+  margin: 0 20px;
+}
+
+
+
+.image {
+  border-radius: 2px;
+  width: 100%;
+  margin: 15px 0;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  display: flex;
+}
+
+.max-width-400 {
+  max-width: 400px;
+}
+
+.max-width-x {
+  max-width: 250px;
+}
+.max-width-500 {
+  max-width: 500px;
+}
+
+.text {
+  margin: 10px 0 10px 0;
+  padding: 0;
+}
+
+.highlight-text {
+  font-weight: bold;
+}
+
+.text-large {
+  font-size: 20px;
+}
+
+.text-small {
+  font-size: 12px;
+}
+
+.text-italic {
+  font-style: italic;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+.style6 {
+	text-align: center;
+}
+.style9 {
+	font-family: "Times New Roman";
+}
+.style13 {
+	font-size: 12px;
+}
+.style14 {
+	text-align: left;
+}
+.style1 {
+	text-align: left;
+}
