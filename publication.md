@@ -5,6 +5,8 @@ title: Changjinag's Publications
 
 # Changjinag's Publications - [\[Google Scholar Profile\]](https://scholar.google.com/citations?user=3z8yQkQAAAAJ&hl=en)
 
+---
+
 ## Preprints
 
 - > Towards Robust RGB-D Human Mesh Recovery
