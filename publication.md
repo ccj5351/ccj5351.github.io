@@ -5,6 +5,20 @@ title: Changjinag's Publications
 
 # Changjinag's Publications - [\[Google Scholar Profile\]](https://scholar.google.com/citations?user=3z8yQkQAAAAJ&hl=en)
 
+## Preprints
+
+- > Towards Robust RGB-D Human Mesh Recovery
+    Ren Li, **Changjiang Cai**, [Georgios Georgakis](https://cs.gmu.edu/~ggeorgak/), [Srikrishna Karanam](https://karanams.github.io/), Terrence Chen, [Ziyan Wu](http://wuziyan.com/)
+    arXiv:1911.07383
+    [**pdf**](https://arxiv.org/pdf/1911.07383v1.pdf)
+
+
+
+---
+
+
+## Publications
+
 - > CBMV: A coalesced bidirectional matching volume for disparity estimation  
     Konstantinos Batsos, **Changjiang Cai**, Philippos Mordohai  
     IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018  
