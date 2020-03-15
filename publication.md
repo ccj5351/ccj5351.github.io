@@ -9,9 +9,9 @@ title: Changjinag's Publications
 
 ## Preprints
 
-- > Towards Robust RGB-D Human Mesh Recovery 
-    Ren Li, **Changjiang Cai**, [Georgios Georgakis](https://cs.gmu.edu/~ggeorgak/), [Srikrishna Karanam](https://karanams.github.io/), Terrence Chen, [Ziyan Wu](http://wuziyan.com/) 
-    arXiv:1911.07383 
+- > Towards Robust RGB-D Human Mesh Recovery  
+    Ren Li, **Changjiang Cai**, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Ziyan Wu  
+    arXiv:1911.07383  
     [**pdf**](https://arxiv.org/pdf/1911.07383v1.pdf) 
 
 

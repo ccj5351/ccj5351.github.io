@@ -20,6 +20,26 @@ title: Changjiang's Projects
 <!-- End of One project !!! -->
 
 
+<!-- One project !!! -->
+<tr>
+<td style="width: 550px">
+<img alt=" cbmv" src="files/hmr-rgbd/pipeline.png" width="515">
+</td>
+
+<td class="style6" style="width: 612px"> 
+<h4 class="style1"> RGB-D Human Mesh Recovery:</h4>
+<ul>
+<li class="style1"> Ren Li, <strong>Changjiang Cai</strong>, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Ziyan Wu, &quot; <a href="https://arxiv.org/pdf/1911.07383v1.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> Towards Robust RGB-D Human Mesh Recovery </span></a> 
+&quot;,
+<span class="style14"> <span style="mso-fareast-font-family: SimSun; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"> 
+arXiv:1911.07383 </span> </span>
+</li>
+
+</ul>
+</td>
+</tr>
+<!-- End of One project !!! -->
+
 
 <!-- One project !!! -->
 <tr>
