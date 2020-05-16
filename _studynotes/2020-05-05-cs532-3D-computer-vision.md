@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CS 532: 3D Computer Vision Course Slides"
-date : 2019-05-05
+date : 2020-05-05
 ---
 
 CS532 has been taught by Prof. [Philippos Mordohai](https://mordohai.github.io/) and [Enrique Dunn](https://www.cs.stevens.edu/~edunn/), at Stevens Insitutue of Technology. Please see the course slides below.
