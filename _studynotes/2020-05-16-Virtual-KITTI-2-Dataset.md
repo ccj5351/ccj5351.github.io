@@ -51,7 +51,7 @@ depth = cv2.imread(depth_png_filename, cv2.IMREAD_ANYCOLOR | cv2.IMREAD_ANYDEPTH
 
 ## 4. Disparity $d$
 
-Based on $d = fB/z$, we can get the disparity $d$. BY checking the `intrinsic.txt` files, I find $f = 725.0087$, $B = 53.2725$ (cm), and the depth png files contain the $z$ values in centimeters. 
+Based on $d = fB/z$, we can get the disparity $d$. By checking the `intrinsic.txt` files, I find $f = 725.0087$, $B = 53.2725$ (cm), and the depth png files contain the $z$ values in centimeters. 
 So to get the disparity maps, I just run $d=fB/z$ ( since I find no zero-value of depth $z$).
 
 For example, we show `Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene01/15-deg-left/frames/rgb/Camera_0/rgb_00001.jpg` and `Virtual-KITTI-V2/vkitti_2.0.3_rgb/Scene01/15-deg-left/frames/rgb/Camera_1/rgb_00001.jpg`.
@@ -118,7 +118,7 @@ Which one do you prefer? I find no specification of the train/test split on the 
 My solution for stereo matching experiments:
 
 - 1) Hold <strong>Scene06</strong> back, which will not be used in our experiments.
-- 2) randomly choose $14\%$ from each scene category among the remaining ones for validation (or test) set.
+- 2) choose first $86\%$ frames from each scene category among the remaining ones (i.e., Scene 01, 02, 18 and 20) for training set, and hence the last $14\%$ frames for validation (or test) set.
 
-resulting in a training set of $15,961$ images (see the file list [virtual_kitti2_wo_scene06_train.list]({% link files/stereo-datasets/virtual-kitti2/virtual_kitti2_wo_scene06_train.list %})); and a testing set of $2599$ 
-images (see the file list [virtual_kitti2_wo_scene06_test.list]({% link files/stereo-datasets/virtual-kitti2/virtual_kitti2_wo_scene06_test.list %})).
+resulting in a training set of $15,961$ images (see the file list [virtual_kitti2_wo_scene06_fixed_train.list]({% link files/stereo-datasets/virtual-kitti2/virtual_kitti2_wo_scene06_fixed_train.list %})); and a testing set of $2,599$ 
+images (see the file list [virtual_kitti2_wo_scene06_fixed_test.list]({% link files/stereo-datasets/virtual-kitti2/virtual_kitti2_wo_scene06_fixed_test.list %})).
