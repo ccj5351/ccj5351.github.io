@@ -120,5 +120,5 @@ My solution for stereo matching experiments:
 - 1) Hold <strong>Scene06</strong> back, which will not be used in our experiments.
 - 2) choose first $86\%$ frames from each scene category among the remaining ones (i.e., Scene 01, 02, 18 and 20) for training set, and hence the last $14\%$ frames for validation (or test) set.
 
-resulting in a training set of $15,961$ images (see the file list [virtual_kitti2_wo_scene06_fixed_train.list]({% link files/stereo-datasets/virtual-kitti2/virtual_kitti2_wo_scene06_fixed_train.list %})); and a testing set of $2,599$ 
+resulting in a training set of $15,940$ images (see the file list [virtual_kitti2_wo_scene06_fixed_train.list]({% link files/stereo-datasets/virtual-kitti2/virtual_kitti2_wo_scene06_fixed_train.list %})); and a testing set of $2,620$ 
 images (see the file list [virtual_kitti2_wo_scene06_fixed_test.list]({% link files/stereo-datasets/virtual-kitti2/virtual_kitti2_wo_scene06_fixed_test.list %})).
