@@ -1,7 +1,7 @@
 ---
 layout: page
 data: 2020-05-01
-title: "How it works from a computer vision paper writing to accepance"
+title: "How it works from a computer vision paper writing to acceptance"
 ---
 
 ## 1. 计算机视觉论文投稿到接收(转, by 施柏鑫)
