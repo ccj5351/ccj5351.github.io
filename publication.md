@@ -11,8 +11,7 @@ title: Changjinag's Publications
 
 - > Towards Robust RGB-D Human Mesh Recovery  
     Ren Li, **Changjiang Cai**, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Ziyan Wu  
-    arXiv:1911.07383  
-    [**pdf**](https://arxiv.org/pdf/1911.07383v1.pdf) 
+    arXiv:1911.07383, see [**pdf**](https://arxiv.org/pdf/1911.07383v1.pdf) 
 
 
 
@@ -20,6 +19,14 @@ title: Changjinag's Publications
 
 
 ## Publications
+
+- > Do End-to-end Stereo Algorithms Under-utilize Information?  
+    **Changjiang Cai**, and Mordohai Philippos  
+    In International Conference on 3D Vision (3DV), 2020
+
+- > Matching-space Stereo Networks for Cross-domain Generalization  
+    **Changjiang Cai**, Poggi Matteo, Mattoccia Stefano, and Mordohai Philippos  
+    In International Conference on 3D Vision (3DV), 2020
 
 - > CBMV: A coalesced bidirectional matching volume for disparity estimation  
     Konstantinos Batsos, **Changjiang Cai**, Philippos Mordohai  

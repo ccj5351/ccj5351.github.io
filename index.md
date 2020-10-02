@@ -20,8 +20,10 @@ in China.
 
 
 ## News
+- 2020/10/02: Two papers (1 on domain-invariant stereo, 1 on content-adatptive filtering for stereo) have been accepted to 3DV 2020 (~~Fukuoka, Japan~~, changed to complete online)!
+- 2020/08/31-2020/12/23: Part-time intern at Futurewei, in Seattle, WA, and supervised by Dr. [Guo-Jun Qi](http://www.cs.ucf.edu/~gqi/).
 - 2020/05/26-2020/08/14: My second (summer) intern, which is at Futurewei, in Seattle, WA, and supervised by Dr. [Guo-Jun Qi](http://www.cs.ucf.edu/~gqi/).
-- 2019/11/15 : Two papers submitted to CVPR 2020, fingers crossed!
+- ~~2019/11/15 : Two papers submitted to CVPR 2020, fingers crossed!~~
 - 2019/05/21-2019/08/21 : My First summer intern. It is at [UII America](https://www.linkedin.com/company/uii-america-inc/) in Cambridge, MA, and supvervised by Dr. [Ziyan Wu](http://wuziyan.com/).
 - 2019/01/04 : New homepage established powered by Githubpage and Jekyll.
 - 2018/12/05 : Passed Ph.D. oral qualifying exam.
