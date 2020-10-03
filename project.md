@@ -16,8 +16,70 @@ title: Changjiang's Projects
 <!-- One project !!! -->
 <!-- End of One project !!! -->
 
+
 <!-- One project !!! -->
+<tr>
+<td style="width: 550px">
+<img alt="msnet" src="files/dafstereonet-3dv2020/network-architecture.png" width="515" >
+<!-- img alt=" msnet" src="files/dafstereonet-3dv2020/2D-3D-deep-stereo-nets.png" width="515" --> 
+</td>
+
+<td class="style6" style="width: 612px"> 
+<h4 class="style1"> Deep Adaptive Filtering Stereo Networks (DAF-Nets):</h4>
+<ul>
+<li class="style1"> <strong>Changjiang Cai</strong>, Philippos Mordohai, &quot;<a href="files/dafstereonet-3dv2020/CostVolumeFilteringStereoMatching_3dv2020.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> 
+  Do End-to-end Stereo Algorithms Under-utilize Information? </span></a>
+&quot;, <span class="style14">
+	<span style="mso-fareast-font-family: SimSun; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
+
+in </span><em><span class="style14">  International Conference on 3D Vision (3DV'2020) </span></em> <span class="style14">, Fukuoka, Japan, Nov. 2020.</span>
+</span>
+
+
+<a href="https://github.com/ccj5351/DAFStereoNets" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Code]</span></a>, 
+
+<a href="files/dafstereonet-3dv2020/CostVolumeFilteringStereoMatching_suppl.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Supp]</span></a>,
+
+</li>
+
+</ul>
+</td>
+</tr>
 <!-- End of One project !!! -->
+
+
+<!-- One project !!! -->
+<tr>
+<td style="width: 550px">
+<img alt=" msnet" src="files/msnet-3dv2020/msnet-archi-02.png" width="515">
+</td>
+
+<td class="style6" style="width: 612px"> 
+<h4 class="style1"> Domain-invariant Matching-space Stereo Networks (MS-Nets):</h4>
+<ul>
+<li class="style1"> <strong>Changjiang Cai</strong>, Poggi Matteo, Mattoccia Stefano, Philippos Mordohai, &quot;<a href="files/msnet-3dv2020/3dv_2020_msnet_stereo_generalization.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> 
+  Matching-space Stereo Networks for Cross-domain Generalization </span></a>
+&quot;, <span class="style14">
+	<span style="mso-fareast-font-family: SimSun; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
+
+in </span><em><span class="style14">  International Conference on 3D Vision (3DV'2020) </span></em> <span class="style14">, Fukuoka, Japan, Nov. 2020.</span>
+</span>
+
+
+<a href="https://github.com/ccj5351/MS-Nets" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Code]</span></a>, 
+
+<a href="files/msnet-3dv2020/3dv_2020_msnet_stereo_generalization_supp.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Supp]</span></a>,
+
+<a href="https://youtu.be/Dvtwym5a5gQ" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Supp-Video1]</span></a>,
+<a href="https://youtu.be/Q58jpwe2jcI" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Supp-Video2]</span></a>,
+
+</li>
+
+</ul>
+</td>
+</tr>
+<!-- End of One project !!! -->
+
 
 
 <!-- One project !!! -->
@@ -54,7 +116,7 @@ arXiv:1911.07383 </span> </span>
 &quot;, <span class="style14">
 	<span style="mso-fareast-font-family: SimSun; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
 
-in Proc. </span><em><span class="style14">IEEE Conf. on Computer Vision and Pattern Recognition (CVPR'2018)</span></em> <span class="style14">, Salt Lake City, Utah, June 2018.</span>
+in Proc. </span><em><span class="style14">IEEE Conf. on Computer Vision and Pattern Recognition (CVPR'2018)</span></em> <span class="style14">, Salt Lake City, Utah, USA, June 2018.</span>
 </span>
 
 
@@ -89,7 +151,7 @@ in Proc. </span><em><span class="style14">IEEE Conf. on Computer Vision and Patt
 <li class="style1"> <strong>Changjiang Cai</strong>, Haipei Sun, Boxiang Dong, Bo Zhang, Ting Wang, Hui Wang, &quot;<a href="files/crowdsourcing/ICDCS17.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> Pairwise Ranking Aggregation by Non-interactive Crowdsourcing with Budget Constraints</span></a>
 &quot;, <span class="style14">
 	<span style="mso-fareast-font-family: SimSun; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"> 
-    in the 37th </span><em><span class="style14"> IEEE International Conference on Distributed Computing (ICDCS'2017)</span></em> <span class="style14">, Atlanta, GA, June 2017.</span>
+    in the 37th </span><em><span class="style14"> IEEE International Conference on Distributed Computing (ICDCS'2017)</span></em> <span class="style14">, Atlanta, GA, USA, June 2017.</span>
 </span>
 <a href="https://github.com/ccj5351/crowdsourcing" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Code]</span></a>,
 
