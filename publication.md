@@ -21,11 +21,11 @@ title: Changjinag's Publications
 ## Publications
 
 - > Do End-to-end Stereo Algorithms Under-utilize Information?  
-    **Changjiang Cai**, and Mordohai Philippos  
+    **Changjiang Cai**, Philippos Mordohai   
     In International Conference on 3D Vision (3DV), 2020
 
 - > Matching-space Stereo Networks for Cross-domain Generalization  
-    **Changjiang Cai**, Poggi Matteo, Mattoccia Stefano, and Mordohai Philippos  
+    **Changjiang Cai**, Matteo Poggi, Stefano Mattoccia, Philippos Mordohai   
     In International Conference on 3D Vision (3DV), 2020
 
 - > CBMV: A coalesced bidirectional matching volume for disparity estimation  

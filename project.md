@@ -57,7 +57,7 @@ in </span><em><span class="style14">  International Conference on 3D Vision (3DV
 <td class="style6" style="width: 612px"> 
 <h4 class="style1"> Domain-invariant Matching-space Stereo Networks (MS-Nets):</h4>
 <ul>
-<li class="style1"> <strong>Changjiang Cai</strong>, Poggi Matteo, Mattoccia Stefano, Philippos Mordohai, &quot;<a href="files/msnet-3dv2020/3dv_2020_msnet_stereo_generalization.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> 
+<li class="style1"> <strong>Changjiang Cai</strong>, Matteo Poggi, Stefano Mattoccia, Philippos Mordohai, &quot;<a href="files/msnet-3dv2020/3dv_2020_msnet_stereo_generalization.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> 
   Matching-space Stereo Networks for Cross-domain Generalization </span></a>
 &quot;, <span class="style14">
 	<span style="mso-fareast-font-family: SimSun; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
