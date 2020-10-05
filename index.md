@@ -7,9 +7,9 @@ title: Changjiang's Homepage
 ## About Me
 
 I am currently a Ph.D. candidate in Computer Science at <a href = "http://www.stevens.edu" target = "_blank"> 
-Stevens Institute of Technology</a>, working with <a href = "https://www.cs.stevens.edu/~mordohai/index.html" target = "_blank"> 
-Professor Philippos Mordohai, </a> in the field of computer vision and machine learning. Specifically, I am focusing on 
-the generalization and robustness in deep learning based stereo depth estimation.
+Stevens Institute of Technology</a>, working with <a href = "https://mordohai.github.io/" target = "_blank"> 
+Professor Philippos Mordohai, </a> in the field of computer vision and machine learning. Specifically, I am focusing on stereo matching, 
+semantic segmentation, human pose estimation, and self-supervised and/or unsupervised representation learning.
 
 Prior to attending Stevens, I received my Bachelor's Degree of Engineering from 
 <a href = "http://www.nwpu.edu.cn/" target = "_blank"> Northwestern Polytechnical University</a>, 
