@@ -7,16 +7,6 @@ title: Changjinag's Publications
 
 ---
 
-## Preprints
-
-- > Towards Robust RGB-D Human Mesh Recovery  
-    Ren Li, **Changjiang Cai**, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Ziyan Wu  
-    arXiv:1911.07383, see [**pdf**](https://arxiv.org/pdf/1911.07383v1.pdf) 
-
-
-
----
-
 
 ## Publications
 
@@ -48,5 +38,13 @@ title: Changjinag's Publications
     Haoxiang Li, Mohammed Kutbi, Xin Li, **Changjiang Cai**, Philippos Mordohai, Gang Hua  
     IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2016.  
     [**pdf**](https://www.cs.stevens.edu/~mordohai/public/Li_EgocentricVisionWheelchair16.pdf), [**video**](https://www.youtube.com/watch?v=iqKp9Z0hNqI)  
+
+---
+
+## Preprints
+
+- > Towards Robust RGB-D Human Mesh Recovery  
+    Ren Li, **Changjiang Cai**, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Ziyan Wu  
+    arXiv:1911.07383, see [**pdf**](https://arxiv.org/pdf/1911.07383v1.pdf) 
 
 ---
