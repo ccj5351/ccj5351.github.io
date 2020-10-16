@@ -27,7 +27,7 @@ title: Changjiang's Projects
 <td class="style6" style="width: 612px"> 
 <h4 class="style1"> Deep Adaptive Filtering Stereo Networks (DAF-Nets):</h4>
 <ul>
-<li class="style1"> <strong>Changjiang Cai</strong>, Philippos Mordohai, &quot;<a href="files/dafstereonet-3dv2020/DAF_stereonets_3dv2020.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> 
+<li class="style1"> <strong>Changjiang Cai</strong>, Philippos Mordohai, &quot;<a href="https://arxiv.org/pdf/2010.07350.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> 
   Do End-to-end Stereo Algorithms Under-utilize Information? </span></a>
 &quot;, <span class="style14">
 	<span style="mso-fareast-font-family: SimSun; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
@@ -38,7 +38,6 @@ in </span><em><span class="style14">  International Conference on 3D Vision (3DV
 
 <a href="https://github.com/ccj5351/DAFStereoNets" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Code]</span></a>, 
 
-<a href="files/dafstereonet-3dv2020/CostVolumeFilteringStereoMatching_suppl.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Supp]</span></a>,
 
 </li>
 
@@ -57,7 +56,7 @@ in </span><em><span class="style14">  International Conference on 3D Vision (3DV
 <td class="style6" style="width: 612px"> 
 <h4 class="style1"> Domain-invariant Matching-space Stereo Networks (MS-Nets):</h4>
 <ul>
-<li class="style1"> <strong>Changjiang Cai</strong>, Matteo Poggi, Stefano Mattoccia, Philippos Mordohai, &quot;<a href="files/msnet-3dv2020/3dv_2020_msnet_stereo.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> 
+<li class="style1"> <strong>Changjiang Cai</strong>, Matteo Poggi, Stefano Mattoccia, Philippos Mordohai, &quot;<a href="https://arxiv.org/pdf/2010.07347.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> 
   Matching-space Stereo Networks for Cross-domain Generalization </span></a>
 &quot;, <span class="style14">
 	<span style="mso-fareast-font-family: SimSun; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
@@ -67,8 +66,6 @@ in </span><em><span class="style14">  International Conference on 3D Vision (3DV
 
 
 <a href="https://github.com/ccj5351/MS-Nets" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Code]</span></a>, 
-
-<a href="files/msnet-3dv2020/3dv_2020_msnet_stereo_generalization_supp.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Supp-pdf]</span></a>,
 
 <a href="https://youtu.be/Qr6WGsPX5P8" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Supp-video-MSGCNet]</span></a>,
 <a href="https://youtu.be/t9WPc3pxzc4" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Supp-video-MSPSMNet]</span></a>,
