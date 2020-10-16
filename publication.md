@@ -23,12 +23,12 @@ title: Changjinag's Publications
 - > Do End-to-end Stereo Algorithms Under-utilize Information?  
     **Changjiang Cai**, Philippos Mordohai   
     In International Conference on 3D Vision (3DV), 2020   
-    [**pdf**](https://arxiv.org/abs/2010.07350), [**code**](https://github.com/ccj5351/DAFStereoNets)
+    [**pdf**]({% link files/dafstereonet-3dv2020/daf_stereo.pdf %}), [**arXiv**](https://arxiv.org/abs/2010.07350), [**code**](https://github.com/ccj5351/DAFStereoNets)
 
 - > Matching-space Stereo Networks for Cross-domain Generalization  
     **Changjiang Cai**, Matteo Poggi, Stefano Mattoccia, Philippos Mordohai   
     In International Conference on 3D Vision (3DV), 2020   
-    [**pdf**](https://arxiv.org/abs/2010.07347), [**code**](https://github.com/ccj5351/MS-Nets)
+    [**pdf**]({% link files/msnet-3dv2020/msnet_stereo.pdf %}), [**arXiv**](https://arxiv.org/abs/2010.07347), [**code**](https://github.com/ccj5351/MS-Nets)
 
 - > CBMV: A coalesced bidirectional matching volume for disparity estimation  
     Konstantinos Batsos, **Changjiang Cai**, Philippos Mordohai  
@@ -40,7 +40,7 @@ title: Changjinag's Publications
 - > Pairwise Ranking Aggregation by Non-interactive Crowdsourcing with Budget Constraints  
     **Changjiang Cai**, Haipei Sun, Boxiang Dong, Bo Zhang, Ting Wang, Hui Wang  
     The 37th IEEE International Conference on Distributed Computing (ICDCS) 2017  
-    [**pdf**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7980235)
+    [**pdf**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7980235), [**code**](https://github.com/ccj5351/crowdsourcing)
 
 ---
 
