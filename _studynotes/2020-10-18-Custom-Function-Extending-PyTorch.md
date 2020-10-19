@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2020-10-18-custom-function-extending-pytorch"
+title: "Extending PyTorch via Custom Function"
 date : 2020-10-18
 ---    
 
