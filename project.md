@@ -68,7 +68,8 @@ in </span><em><span class="style14">  International Conference on 3D Vision (3DV
 
 
 <a href="https://github.com/ccj5351/MS-Nets" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Code]</span></a>, 
-
+<a href="https://youtu.be/j2QFDix0_fM" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Video]</span></a>, 
+<a href="files/msnet-3dv2020/msnet-10mins-final.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Slides]</span></a>,
 <a href="https://youtu.be/Qr6WGsPX5P8" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Supp-video-MSGCNet]</span></a>,
 <a href="https://youtu.be/t9WPc3pxzc4" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Supp-video-MSPSMNet]</span></a>.
 
