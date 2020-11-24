@@ -13,31 +13,31 @@ title: Changjinag's Publications
 - > Do End-to-end Stereo Algorithms Under-utilize Information?  
     **Changjiang Cai**, Philippos Mordohai   
     In International Conference on 3D Vision (3DV), 2020   
-    [**pdf**]({% link files/dafstereonet-3dv2020/daf_stereo.pdf %}), [**arXiv**](https://arxiv.org/abs/2010.07350), [**code**](https://github.com/ccj5351/DAFStereoNets)
+    [**PDF-ConfPub**]({% link files/dafstereonet-3dv2020/daf-stereo-3dv-conf20-pub.pdf %}), [**arXiv**](https://arxiv.org/abs/2010.07350), [**PDF-HighRes**]({% link files/dafstereonet-3dv2020/daf_stereo.pdf %}), [**Code**](https://github.com/ccj5351/DAFStereoNets), [**Poster**]({% link files/dafstereonet-3dv2020/poster-daf.pdf %}), [**Slides**]({% link files/dafstereonet-3dv2020/daf-stereo-10mins-final.pdf %})
 
 - > Matching-space Stereo Networks for Cross-domain Generalization  
     **Changjiang Cai**, Matteo Poggi, Stefano Mattoccia, Philippos Mordohai   
     In International Conference on 3D Vision (3DV), 2020   
-    [**pdf**]({% link files/msnet-3dv2020/msnet_stereo.pdf %}), [**arXiv**](https://arxiv.org/abs/2010.07347), [**code**](https://github.com/ccj5351/MS-Nets)
+    [**PDF-ConfPub**]({% link files/msnet-3dv2020/msnet-3dv-conf20-pub.pdf %}), [**arXiv**](https://arxiv.org/abs/2010.07347), [**PDF-HighRes**]({% link files/msnet-3dv2020/msnet_stereo.pdf %}), [**Code**](https://github.com/ccj5351/MS-Nets), [**Poster**]({% link files/msnet-3dv2020/poster-msnet.pdf %}), [**Slides**]({% link files/msnet-3dv2020/msnet-10mins-final.pdf %})
 
 - > CBMV: A coalesced bidirectional matching volume for disparity estimation  
     Konstantinos Batsos, **Changjiang Cai**, Philippos Mordohai  
     IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018  
-    [**pdf**]({% link files/cvpr-cbmv-2019/Batsos_CBMV_A_Coalesced_CVPR_2018_paper.pdf %}), [**supp**]({% link files/cvpr-cbmv-2019/supplement.pdf %}), [**video**]({% link files/cvpr-cbmv-2019/CBMV.mp4 %}), [**code**](https://github.com/kbatsos/CBMV/tree/master), [**poster**]({% link files/documents/cbmv_poster_cvpr2018.pdf %})
+    [**PDF-ConfPub**]({% link files/cvpr-cbmv-2019/Batsos_CBMV_A_Coalesced_CVPR_2018_paper.pdf %}), [**arXiv**](https://arxiv.org/pdf/1804.01967.pdf), [**Supp**]({% link files/cvpr-cbmv-2019/supplement.pdf %}), [**Video**]({% link files/cvpr-cbmv-2019/CBMV.mp4 %}), [**Code**](https://github.com/kbatsos/CBMV/tree/master), [**Poster**]({% link files/documents/cbmv_poster_cvpr2018.pdf %})
 
 ---
 
 - > Pairwise Ranking Aggregation by Non-interactive Crowdsourcing with Budget Constraints  
     **Changjiang Cai**, Haipei Sun, Boxiang Dong, Bo Zhang, Ting Wang, Hui Wang  
     The 37th IEEE International Conference on Distributed Computing (ICDCS) 2017  
-    [**pdf**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7980235), [**code**](https://github.com/ccj5351/crowdsourcing)
+    [**PDF-ConfPub**]({% link files/crowdsourcing/ICDCS17.pdf %}), [**PDF-Long**]({% link files/crowdsourcing/ICDCS17-long.pdf %}), [**Code**](https://github.com/ccj5351/crowdsourcing)
 
 ---
 
 - > An Egocentric Computer Vision based Co-Robot Wheelchair.  
     Haoxiang Li, Mohammed Kutbi, Xin Li, **Changjiang Cai**, Philippos Mordohai, Gang Hua  
     IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2016.  
-    [**pdf**](https://www.cs.stevens.edu/~mordohai/public/Li_EgocentricVisionWheelchair16.pdf), [**video**](https://www.youtube.com/watch?v=iqKp9Z0hNqI)  
+    [**PDF**](https://mordohai.github.io/public/Li_EgocentricVisionWheelchair16.pdf), [**Video**](https://www.youtube.com/watch?v=iqKp9Z0hNqI)  
 
 ---
 
@@ -45,6 +45,6 @@ title: Changjinag's Publications
 
 - > Towards Robust RGB-D Human Mesh Recovery  
     Ren Li, **Changjiang Cai**, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Ziyan Wu  
-    arXiv:1911.07383, see [**pdf**](https://arxiv.org/pdf/1911.07383v1.pdf) 
+    arXiv:1911.07383, see [**PDF**](https://arxiv.org/pdf/1911.07383v1.pdf) 
 
 ---
