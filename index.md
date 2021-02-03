@@ -12,19 +12,26 @@ Professor Philippos Mordohai, </a> in the field of computer vision and machine l
 semantic segmentation, human pose estimation, and self-supervised and/or unsupervised representation learning.
 
 Prior to attending Stevens, I received my Bachelor's Degree of Engineering from 
-<a href = "http://www.nwpu.edu.cn/" target = "_blank"> Northwestern Polytechnical University</a>, 
-and pursued Master's Degree at <a href = "http://www.xjtu.edu.cn" target = "_blank"> Xi'an Jiaotong University</a>, 
+<a href = "http://en.nwpu.edu.cn/" target = "_blank"> Northwestern Polytechnical University</a>, 
+and pursued Master's Degree at <a href = "http://en.xjtu.edu.cn/" target = "_blank"> Xi'an Jiaotong University</a>, 
 in China.
 
 ---
 
 
 ## News
+- 2021/02/03: Just passed my Ph.D. Dissertation Proposal Defense on Feb. 3, 2021 (11:00 am - 12:30pm, EST). And many thanks to all the professors - 
+<a href = "https://scholar.google.com/citations?hl=en&user=540aJY8AAAAJ" target = "_blank"> Dr. Philippos Mordohai</a>,
+<a href = "https://scholar.google.com/citations?user=eEOX_EoAAAAJ&hl=en" target = "_blank"> Dr. Enrique Dunn</a>, 
+<a href = "https://scholar.google.com/citations?hl=en&user=Qtvu5t4AAAAJ" target = "_blank"> Dr. Tian Han</a>, and
+<a href = "https://scholar.google.com/citations?hl=en&user=Nd6tX_kAAAAJ" target = "_blank"> Dr. Brendan Englot</a>, for serving on my committee!
+- 2021/01/30: I will join InnoPeak (a.k.a OPPO US Research Center) at Palo Alto, CA, on June 1, 2021, as a senior 3D computer vision research engineer, working with <a href = "https://scholar.google.com/citations?user=8twuSywAAAAJ&hl=en" target = "_blank"> Dr. Pan Ji (Staff Research Engineer)</a>, <a href = "https://www.linkedin.com/in/yi-xu-42654823/" target = "_blank">Dr. Yi Xu (Associate Director)</a> and <a href = "https://www.linkedin.com/in/shuxuequan/" target = "_blank">Dr. Shuxue Quan (Head)</a>.
 - 2020/10/02: Two papers (1 on domain-invariant stereo, 1 on content-adaptive filtering for stereo) have been accepted to 3DV 2020 (~~Fukuoka, Japan~~, changed to complete online)!
-- 2020/08/31-2020/12/23: Part-time intern at Futurewei, in Seattle, WA, and supervised by Dr. [Guo-Jun Qi](http://www.cs.ucf.edu/~gqi/).
-- 2020/05/26-2020/08/14: My second (summer) intern, which is at Futurewei, in Seattle, WA, and supervised by Dr. [Guo-Jun Qi](http://www.cs.ucf.edu/~gqi/).
+- 2020/08/31-2020/12/23: Part-time intern at Futurewei, in Seattle, WA, and supervised by 
+<a href = "https://scholar.google.com/citations?user=Nut-uvoAAAAJ&hl=en" target = "_blank"> Dr. Guo-Jun Qi</a>.
+- 2020/05/26-2020/08/14: My second (summer) intern, which is at Futurewei, in Seattle, WA, and supervised by <a href = "https://scholar.google.com/citations?user=Nut-uvoAAAAJ&hl=en" target = "_blank"> Dr. Guo-Jun Qi</a>.
 - ~~2019/11/15 : Two papers submitted to CVPR 2020, fingers crossed!~~
-- 2019/05/21-2019/08/21 : My First summer intern. It is at [UII America](https://www.linkedin.com/company/uii-america-inc/) in Cambridge, MA, and supvervised by Dr. [Ziyan Wu](http://wuziyan.com/).
+- 2019/05/21-2019/08/21 : My First summer intern. It is at <a href = "https://www.linkedin.com/company/uii-america-inc/" target = "_blank"> UII America</a> in Cambridge, MA, and supvervised by <a href = "http://wuziyan.com/" target = "_blank"> Dr. Ziyan Wu</a>.
 - 2019/01/04 : New homepage established powered by Githubpage and Jekyll.
 - 2018/12/05 : Passed Ph.D. oral qualifying exam.
 - 2018/06/19 : Presented our paper poster at CVPR'18.
