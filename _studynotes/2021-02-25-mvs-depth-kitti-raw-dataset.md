@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Multi-View Stereo Depth: KITTI Dataset
+title: Multi-View Stereo Depth - KITTI Dataset
 date: 2021-02-25
 ---
 
