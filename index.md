@@ -6,10 +6,12 @@ title: Changjiang's Homepage
 
 ## About Me
 
-I am currently a Ph.D. candidate in Computer Science at <a href = "http://www.stevens.edu" target = "_blank"> 
-Stevens Institute of Technology</a>, working with <a href = "https://mordohai.github.io/" target = "_blank"> 
-Professor Philippos Mordohai, </a> in the field of computer vision and machine learning. Specifically, I am focusing on stereo matching, 
-semantic segmentation, human pose estimation, and self-supervised and/or unsupervised representation learning.
+I am going to serve as a senior research engineer in 3D computer vision, at OPPO US Research Center, at Palo Alto, CA. 
+Hope to have a wonderful and fruitful journey there.
+
+I received my Ph.D. degree of Computer Science from <a href = "http://www.stevens.edu" target = "_blank"> 
+Stevens Institute of Technology</a>, with the guidance of my advisor, <a href = "https://mordohai.github.io/" target = "_blank"> 
+Professor Philippos Mordohai, </a> in the field of computer vision, focusing on 3D reconstruction by binocular and multi-view stereo matching.
 
 Prior to attending Stevens, I received my Bachelor's Degree of Engineering from 
 <a href = "http://en.nwpu.edu.cn/" target = "_blank"> Northwestern Polytechnical University</a>, 
@@ -21,7 +23,7 @@ in China.
 
 ## News
 - 2021/05/13: Just successfully defend my Ph.D. dissertation on May 13, 2021 (2:00 pm - 3:30pm, EST). I would like to thank my advisor 
-Prof. Philippos Mordohai for his continuous guidance, patience, motivation and support during my Ph.D. study at Stevens. I have learned 
+Professor Philippos Mordohai for his continuous guidance, patience, motivation and support during my Ph.D. study at Stevens. I have learned 
 a lot from his philosophy for research, his excellent knowledge of the field, his integrity and his intelligence. I would also like to 
 thank Prof. Enrique Dunn for serving on my qualifying examination, proposal and dissertation committees. I would also like to thank Prof. Tian Han and
 Prof. Brendan Englot for serving on my proposal and dissertation committees. I thank Prof. Xinchao Wang for serving on my qualifying examination committee. 
