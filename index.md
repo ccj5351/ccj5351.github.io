@@ -20,11 +20,18 @@ in China.
 
 
 ## News
+- 2021/05/13: Just successfully defend my Ph.D. dissertation on May 13, 2021 (2:00 pm - 3:30pm, EST). I would like to thank my advisor 
+Prof. Philippos Mordohai for his continuous guidance, patience, motivation and support during my Ph.D. study at Stevens. I have learned 
+a lot from his philosophy for research, his excellent knowledge of the field, his integrity and his intelligence. I would also like to 
+thank Prof. Enrique Dunn for serving on my qualifying examination, proposal and dissertation committees. I would also like to thank Prof. Tian Han and
+Prof. Brendan Englot for serving on my proposal and dissertation committees. I thank Prof. Xinchao Wang for serving on my qualifying examination committee. 
+I thank Dr. Gang Hua for admitting me to the doctoral program in computer science at Stevens, as well as for his providing me a great opportunity 
+to start the research in the field of computer vision. Cheers!
 - 2021/02/03: Just passed my Ph.D. Dissertation Proposal Defense on Feb. 3, 2021 (11:00 am - 12:30pm, EST). And many thanks to all the professors - 
-<a href = "https://scholar.google.com/citations?hl=en&user=540aJY8AAAAJ" target = "_blank"> Dr. Philippos Mordohai</a>,
-<a href = "https://scholar.google.com/citations?user=eEOX_EoAAAAJ&hl=en" target = "_blank"> Dr. Enrique Dunn</a>, 
-<a href = "https://scholar.google.com/citations?hl=en&user=Qtvu5t4AAAAJ" target = "_blank"> Dr. Tian Han</a>, and
-<a href = "https://scholar.google.com/citations?hl=en&user=Nd6tX_kAAAAJ" target = "_blank"> Dr. Brendan Englot</a>, for serving on my committee!
+<a href = "https://scholar.google.com/citations?hl=en&user=540aJY8AAAAJ" target = "_blank"> Prof. Philippos Mordohai</a>,
+<a href = "https://scholar.google.com/citations?user=eEOX_EoAAAAJ&hl=en" target = "_blank"> Prof. Enrique Dunn</a>, 
+<a href = "https://scholar.google.com/citations?hl=en&user=Qtvu5t4AAAAJ" target = "_blank"> Prof. Tian Han</a>, and
+<a href = "https://scholar.google.com/citations?hl=en&user=Nd6tX_kAAAAJ" target = "_blank"> Prof. Brendan Englot</a>, for serving on my committee!
 - 2021/01/30: I will join InnoPeak (a.k.a OPPO US Research Center) at Palo Alto, CA, on June 1, 2021, as a senior 3D computer vision research engineer, working with <a href = "https://scholar.google.com/citations?user=8twuSywAAAAJ&hl=en" target = "_blank"> Dr. Pan Ji (Staff Research Engineer)</a>, <a href = "https://www.linkedin.com/in/yi-xu-42654823/" target = "_blank">Dr. Yi Xu (Associate Director)</a> and <a href = "https://www.linkedin.com/in/shuxuequan/" target = "_blank">Dr. Shuxue Quan (Head)</a>.
 - 2020/10/02: Two papers (1 on domain-invariant stereo, 1 on content-adaptive filtering for stereo) have been accepted to 3DV 2020 (~~Fukuoka, Japan~~, changed to complete online)!
 - 2020/08/31-2020/12/23: Part-time intern at Futurewei, in Seattle, WA, and supervised by 
