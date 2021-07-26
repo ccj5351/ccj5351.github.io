@@ -58,6 +58,6 @@ to start the research in the field of computer vision. Cheers!
   - IEEE Transactions on Multimedia
 
 - Reviewer for the following conferences:
-  - ACM MULTIMEDIA CONFERENCE 2020 (ACMMM'20)
-  - ACM MULTIMEDIA CONFERENCE 2021 (ACMMM’21)
+  - ACM Multimedia Conference 2020 (ACMMM’20)
+  - ACM Multimedia Conference 2021 (ACMMM’21)
 
