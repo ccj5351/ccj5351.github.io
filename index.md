@@ -6,8 +6,7 @@ title: Changjiang's Homepage
 
 ## About Me
 
-I am going to serve as a senior research engineer in 3D computer vision, at OPPO US Research Center, at Palo Alto, CA. 
-Hope to have a wonderful and fruitful journey there.
+I am serving as a Sr. Research Engineer in 3D Computer Vision, at InnoPeak Technology, Inc. (a.k.a OPPO US Research Center), Palo Alto, CA, where I work on problems in 3D reconstruction and Augmented Reality via leveraging my knowledge in Computer Vision and Machine Learning.
 
 I received my Ph.D. degree of Computer Science from <a href = "http://www.stevens.edu" target = "_blank"> 
 Stevens Institute of Technology</a>, with the guidance of my advisor, <a href = "https://mordohai.github.io/" target = "_blank"> 
