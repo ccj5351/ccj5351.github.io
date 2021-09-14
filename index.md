@@ -20,7 +20,9 @@ in China.
 ---
 
 
-## News
+## News 
+- 2021/06/01: Started to work as a Sr. Research Engineer at InnoPeak Technology, Palo Alto, CA. Exciting to enjoy the sunshine here.
+- 2021/05/30: Served as a reviewer for ACM Multimedia Conference 2021 (ACMMM’21).
 - 2021/05/13: Just successfully defend my Ph.D. dissertation on May 13, 2021 (2:00 pm - 3:30pm, EST). I would like to thank my advisor 
 Professor Philippos Mordohai for his continuous guidance, patience, motivation and support during my Ph.D. study at Stevens. I have learned 
 a lot from his philosophy for research, his excellent knowledge of the field, his integrity and his intelligence. I would also like to 
@@ -49,13 +51,13 @@ to start the research in the field of computer vision. Cheers!
 - 2017/05/09 : Passed Ph.D. written qualifying exam (Algorithm, Functional Programming Language, and Operating System).
 - 2017/03/12 : One paper was accepted by ICDCS'17.
 - 2016/02/01 : Received Master of Engineering in Electrical Engineering at Stevens.
-- 2015/01/01 : Starting my Ph.D. study in Computer Science at Stevens.
-- 2013/08/20 : Starting my master study in Electrical Engineering at Stevens.
+- 2015/01/01 : Started my Ph.D. study in Computer Science at Stevens.
+- 2013/08/20 : Started my master study in Electrical Engineering at Stevens.
 
 ## Services
 - Reviewer for the following journals:  
   - IEEE Transactions on Image Processing (TIP)
-  - IEEE Transactions on Multimedia
+  - IEEE Transactions on Multimedia (TMM)
 
 - Reviewer for the following conferences:
   - ACM Multimedia Conference 2020 (ACMMM’20)
