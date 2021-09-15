@@ -20,7 +20,8 @@ in China.
 ---
 
 
-## News 
+## News
+- 2021/09/15: Served as a reviewer for AAAI Conference on Artificial Intelligence 2022 (AAAI’22).
 - 2021/06/01: Started to work as a Sr. Research Engineer at InnoPeak Technology, Palo Alto, CA. Exciting to enjoy the sunshine here.
 - 2021/05/30: Served as a reviewer for ACM Multimedia Conference 2021 (ACMMM’21).
 - 2021/05/13: Just successfully defend my Ph.D. dissertation on May 13, 2021 (2:00 pm - 3:30pm, EST). I would like to thank my advisor 
@@ -62,4 +63,5 @@ to start the research in the field of computer vision. Cheers!
 - Reviewer for the following conferences:
   - ACM Multimedia Conference 2020 (ACMMM’20)
   - ACM Multimedia Conference 2021 (ACMMM’21)
+  - AAAI Conference on Artificial Intelligence (AAAI'22)
 
