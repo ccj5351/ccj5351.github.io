@@ -1,6 +1,5 @@
 ---
 title: "How to index a 4D tensor in your own cuda kernel function"
-comments: false
 date: 2022-01-04
 ---
 
