@@ -59,9 +59,11 @@ to start the research in the field of computer vision. Cheers!
 - Reviewer for the following journals:  
   - IEEE Transactions on Image Processing (TIP)
   - IEEE Transactions on Multimedia (TMM)
+  - International Journal of Computer Vision (IJCV)
 
 - Reviewer for the following conferences:
   - ACM Multimedia Conference 2020 (ACMMM’20)
   - ACM Multimedia Conference 2021 (ACMMM’21)
   - AAAI Conference on Artificial Intelligence (AAAI'22)
+  - International Conference on Pattern Recognition (ICPR'22)
 
