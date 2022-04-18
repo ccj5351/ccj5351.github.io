@@ -21,6 +21,9 @@ in China.
 
 
 ## News
+- 2022/04/05: Served as a reviewer for International Conference on Multimedia Information Processing and Retrieval (MIPR), 2022.
+- 2022/03/15: Served as a reviewer for International Journal of Computer Vision (IJCV).
+- 2022/03/02: One paper was accepted by CVPR'22.
 - 2021/09/15: Served as a reviewer for AAAI Conference on Artificial Intelligence 2022 (AAAI’22).
 - 2021/06/01: Started to work as a Sr. Research Engineer at InnoPeak Technology, Palo Alto, CA. Exciting to enjoy the sunshine here.
 - 2021/05/30: Served as a reviewer for ACM Multimedia Conference 2021 (ACMMM’21).
