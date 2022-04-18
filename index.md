@@ -69,4 +69,5 @@ to start the research in the field of computer vision. Cheers!
   - ACM Multimedia Conference 2021 (ACMMM’21)
   - AAAI Conference on Artificial Intelligence (AAAI'22)
   - International Conference on Pattern Recognition (ICPR'22)
+  - International Conference on Multimedia Information Processing and Retrieval (MIPR'22)
 
