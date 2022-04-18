@@ -10,6 +10,11 @@ title: Changjinag's Publications
 
 ## Publications
 
+- > PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo  
+    Jiachen Liu, Pan Ji, Nitin Bansal, **Changjiang Cai**, Qingan Yan, Xiaolei Huang, Yi Xu   
+    IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022   
+    [**arXiv**](https://arxiv.org/abs/2203.12082)
+
 - > Do End-to-end Stereo Algorithms Under-utilize Information?  
     **Changjiang Cai**, Philippos Mordohai   
     In International Conference on 3D Vision (3DV), 2020   
