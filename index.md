@@ -39,7 +39,7 @@ to start the research in the field of computer vision. Cheers!
 <a href = "https://scholar.google.com/citations?user=eEOX_EoAAAAJ&hl=en" target = "_blank"> Prof. Enrique Dunn</a>, 
 <a href = "https://scholar.google.com/citations?hl=en&user=Qtvu5t4AAAAJ" target = "_blank"> Prof. Tian Han</a>, and
 <a href = "https://scholar.google.com/citations?hl=en&user=Nd6tX_kAAAAJ" target = "_blank"> Prof. Brendan Englot</a>, for serving on my committee!
-- 2021/01/30: I will join InnoPeak (a.k.a OPPO US Research Center) at Palo Alto, CA, on June 1, 2021, as a senior 3D computer vision research engineer, working with <a href = "https://scholar.google.com/citations?user=8twuSywAAAAJ&hl=en" target = "_blank"> Dr. Pan Ji (Staff Research Engineer)</a>, <a href = "https://www.linkedin.com/in/yi-xu-42654823/" target = "_blank">Dr. Yi Xu (Associate Director)</a> and <a href = "https://www.linkedin.com/in/shuxuequan/" target = "_blank">Dr. Shuxue Quan (Head)</a>.
+- 2021/01/30: I will join InnoPeak (a.k.a OPPO US Research Center) at Palo Alto, CA, on June 1, 2021, as a senior 3D computer vision research engineer, working with <a href = "https://scholar.google.com/citations?user=8twuSywAAAAJ&hl=en" target = "_blank"> Dr. Pan Ji </a> and <a href = "https://www.linkedin.com/in/yi-xu-42654823/" target = "_blank"> Dr. Yi Xu (Associate Director)</a>.
 - 2020/10/02: Two papers (1 on domain-invariant stereo, 1 on content-adaptive filtering for stereo) have been accepted to 3DV 2020 (~~Fukuoka, Japan~~, changed to complete online)!
 - 2020/08/31-2020/12/23: Part-time intern at Futurewei, in Seattle, WA, and supervised by 
 <a href = "https://scholar.google.com/citations?user=Nut-uvoAAAAJ&hl=en" target = "_blank"> Dr. Guo-Jun Qi</a>.
