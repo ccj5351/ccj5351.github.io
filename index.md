@@ -21,6 +21,7 @@ in China.
 
 
 ## News
+- 2021/06/25: Attened CVPR'22 at New Orleans, LA, as my first in-person conference since the pandemic COVID-19.
 - 2021/05/28: Submitted our new preprint Multi-View Stereo (MVS) work [RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo](https://arxiv.org/abs/2205.14320?context=cs) to ArXiv.
 - 2021/04/28: Served as a reviewer (of 9 papers) for ACM Multimedia Conference 2022 (ACMMM’22).
 - 2022/04/05: Served as a reviewer for International Conference on Multimedia Information Processing and Retrieval (MIPR), 2022.
