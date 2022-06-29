@@ -21,6 +21,8 @@ in China.
 
 
 ## News
+- 2021/05/28: Submitted our new preprint Multi-View Stereo (MVS) work [RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo](https://arxiv.org/abs/2205.14320?context=cs) to ArXiv.
+- 2021/04/28: Served as a reviewer (of 9 papers) for ACM Multimedia Conference 2022 (ACMMM’22).
 - 2022/04/05: Served as a reviewer for International Conference on Multimedia Information Processing and Retrieval (MIPR), 2022.
 - 2022/03/15: Served as a reviewer for International Journal of Computer Vision (IJCV).
 - 2022/03/02: One paper was accepted by CVPR'22.
@@ -70,4 +72,5 @@ to start the research in the field of computer vision. Cheers!
   - AAAI Conference on Artificial Intelligence (AAAI'22)
   - International Conference on Pattern Recognition (ICPR'22)
   - International Conference on Multimedia Information Processing and Retrieval (MIPR'22)
+  - ACM Multimedia Conference 2022 (ACMMM’22)
 
