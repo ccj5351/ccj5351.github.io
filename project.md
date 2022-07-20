@@ -33,7 +33,7 @@ title: Changjiang's Projects
 in </span><em><span class="style14"> IEEE Conf. on Computer Vision and Pattern Recognition (CVPR'2022) </span></em> <span class="style14">, New Orleans, USA, Jun. 2022.</span>
 </span>
 
-<a href="files/planemvs-cvpr2022/planemvs-poster.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Poster]</span></a>
+<a href="files/planemvs-cvpr2022/planemvs-poster.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Poster]</span></a>.
 
 </li>
 
