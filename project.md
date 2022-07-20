@@ -25,17 +25,15 @@ title: Changjiang's Projects
 <td class="style6" style="width: 612px"> 
 <h4 class="style1"> Plane Reconsturction from MVS:</h4>
 <ul>
-<li class="style1"> Jiachen Liu, Pan Ji, Nitin Bansal, <strong>Changjiang Cai<strong>, Qingan Yan, Xiaolei Huang, Yi Xu, &quot;<a href="https://arxiv.org/pdf/2203.12082.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> 
+<li class="style1"> Jiachen Liu, Pan Ji, Nitin Bansal, <strong>Changjiang Cai</strong>, Qingan Yan, Xiaolei Huang, Yi Xu, &quot;<a href="https://arxiv.org/pdf/2203.12082.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> 
   PlaneMVS: 3D Plane Reconstruction from Multi-View Stere </span></a>
 &quot;, <span class="style14">
 	<span style="mso-fareast-font-family: SimSun; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
 
-in </span><em><span class="style14">  </span></em> <span class="style14">, New Orleans, USA, Jun. 2022.</span>
+in </span><em><span class="style14"> IEEE Conf. on Computer Vision and Pattern Recognition (CVPR'2022) </span></em> <span class="style14">, New Orleans, USA, Jun. 2022.</span>
 </span>
 
-
-<a href="files/planemvs-cvpr2022/planemvs-poster.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Poster]</span></a>,
-
+<a href="files/planemvs-cvpr2022/planemvs-poster.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Poster]</span></a>
 
 </li>
 
