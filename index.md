@@ -6,7 +6,7 @@ title: Changjiang's Homepage
 
 ## About Me
 
-I am serving as a Sr. Research Engineer in 3D Computer Vision, at InnoPeak Technology, Inc. (a.k.a. OPPO US Research Center), Palo Alto, CA, to solve problems in 3D reconstruction and Augmented Reality via leveraging my knowledge in Computer Vision and Machine Learning.
+I am serving as a Staff Research Engineer in 3D Computer Vision, at InnoPeak Technology, Inc. (a.k.a. OPPO US Research Center), Palo Alto, CA, to solve problems in 3D reconstruction and Augmented Reality via leveraging my knowledge in Computer Vision and Machine Learning.
 
 I received my Ph.D. degree of Computer Science from <a href = "http://www.stevens.edu" target = "_blank"> 
 Stevens Institute of Technology</a>, with the guidance of my advisor, <a href = "https://mordohai.github.io/" target = "_blank"> 
@@ -21,9 +21,10 @@ in China.
 
 
 ## News
-- 2021/06/25: Attened CVPR'22 at New Orleans, LA, as my first in-person conference since the pandemic COVID-19.
-- 2021/05/28: Submitted our new preprint Multi-View Stereo (MVS) work [RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo](https://arxiv.org/abs/2205.14320?context=cs) to ArXiv.
-- 2021/04/28: Served as a reviewer (of 9 papers) for ACM Multimedia Conference 2022 (ACMMM’22).
+- 2021/11/15: Was promoted to Staff Research Engineer at InnoPeak Technology, Palo Alto, CA.
+- 2022/06/25: Attened CVPR'22 at New Orleans, LA, as my first in-person conference since the pandemic COVID-19.
+- 2022/05/28: Submitted our new preprint Multi-View Stereo (MVS) work [RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo](https://arxiv.org/abs/2205.14320?context=cs) to ArXiv.
+- 2022/04/28: Served as a reviewer (of 9 papers) for ACM Multimedia Conference 2022 (ACMMM’22).
 - 2022/04/05: Served as a reviewer for International Conference on Multimedia Information Processing and Retrieval (MIPR), 2022.
 - 2022/03/15: Served as a reviewer for International Journal of Computer Vision (IJCV).
 - 2022/03/02: One paper was accepted by CVPR'22.
