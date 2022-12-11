@@ -76,4 +76,5 @@ to start the research in the field of computer vision. Cheers!
   - International Conference on Pattern Recognition (ICPR'22)
   - International Conference on Multimedia Information Processing and Retrieval (MIPR'22)
   - ACM Multimedia Conference 2022 (ACMMM’22)
+  - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23)
 
