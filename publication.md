@@ -10,6 +10,11 @@ title: Changjinag's Publications
 
 ## Publications
 
+- > RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo  
+    **Changjiang Cai**, Pan Ji, Qingan Yan, Yi Xu   
+    IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023   
+    [**arXiv**](https://arxiv.org/pdf/2205.14320.pdf)
+
 - > PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo  
     Jiachen Liu, Pan Ji, Nitin Bansal, **Changjiang Cai**, Qingan Yan, Xiaolei Huang, Yi Xu   
     IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022   

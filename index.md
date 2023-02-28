@@ -21,6 +21,7 @@ in China.
 
 
 ## News
+- 2023/02/27: One first-author [paper](https://arxiv.org/pdf/2205.14320.pdf) was accepted by CVPR'23.
 - 2022/12/13: Served as a reviewer (of 5 papers) for CVPR'23.
 - 2021/11/15: Was promoted to Staff Research Engineer at InnoPeak Technology, Palo Alto, CA.
 - 2022/06/25: Attened CVPR'22 at New Orleans, LA, as my first in-person conference since the pandemic COVID-19.
