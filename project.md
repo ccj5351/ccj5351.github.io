@@ -23,7 +23,7 @@ title: Changjiang's Projects
 </td>
 
 <td class="style6" style="width: 612px"> 
-<h4 class="style1"> A “learning-to-optimize” paradigm for MVS Depth Estimation</h4>
+<h4 class="style1"> A “learning-to-optimize” paradigm for MVS Depth Estimation: </h4>
 <ul>
 <li class="style1"> <strong>Changjiang Cai</strong>, Pan Ji, Qingan Yan, Yi Xu, &quot;<a href="https://arxiv.org/pdf/2205.14320.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> 
 RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo   </span></a>
