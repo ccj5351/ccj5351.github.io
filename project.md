@@ -19,6 +19,30 @@ title: Changjiang's Projects
 <!-- One project !!! -->
 <tr>
 <td style="width: 550px">
+<img alt="riav-mvs" src="files/riavmvs-cvpr2023/overview-archi.png" width="515" >
+</td>
+
+<td class="style6" style="width: 612px"> 
+<h4 class="style1"> A “learning-to-optimize” paradigm for MVS Depth Estimation</h4>
+<ul>
+<li class="style1"> <strong>Changjiang Cai</strong>, Pan Ji, Qingan Yan, Yi Xu, &quot;<a href="https://arxiv.org/pdf/2205.14320.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> 
+RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo   </span></a>
+&quot;, <span class="style14">
+	<span style="mso-fareast-font-family: SimSun; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
+
+in </span><em><span class="style14"> IEEE Conf. on Computer Vision and Pattern Recognition (CVPR'2023) </span></em> <span class="style14">, Vancouver, Canada, Jun. 2023.</span>
+</span>.
+
+</li>
+
+</ul>
+</td>
+</tr>
+<!-- End of One project !!! -->
+
+<!-- One project !!! -->
+<tr>
+<td style="width: 550px">
 <img alt="planemvs" src="files/planemvs-cvpr2022/planemvs_head.png" width="515" >
 </td>
 
