@@ -21,6 +21,9 @@ in China.
 
 
 ## News
+- 2023/06/20: Will virtually attend CVPR'23 and present our poster paper (**poster tag: TUE-AM-087**) on Tuesday, June 20, 2023. Please check our paper at this [Project Page](http://www.changjiangcai.com/riav-mvs.github.io/).
+- 2023/06/07: Served as a reviewer (of 6 papers) for NeurIPS'23.
+- 2023/04/10: Served as a reviewer (of 8 papers) for ICCV'23.
 - 2023/02/27: One first-author [paper](https://arxiv.org/pdf/2205.14320.pdf) was accepted by CVPR'23.
 - 2022/12/13: Served as a reviewer (of 5 papers) for CVPR'23.
 - 2021/11/15: Was promoted to Staff Research Engineer at InnoPeak Technology, Palo Alto, CA.

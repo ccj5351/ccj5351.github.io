@@ -31,7 +31,7 @@ RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo   </span
 	<span style="mso-fareast-font-family: SimSun; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
 
 in </span><em><span class="style14"> IEEE Conf. on Computer Vision and Pattern Recognition (CVPR'2023) </span></em> <span class="style14">, Vancouver, Canada, Jun. 2023.</span>
-</span>.
+</span>
 <a href="http://www.changjiangcai.com/riav-mvs.github.io/" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Projecti Page]</span></a>, 
 <a href="https://github.com/oppo-us-research/riav-mvs" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Code]</span></a>, 
 <a href="https://www.youtube.com/watch?v=7nvtlz0Caso" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Video]</span></a>, 
