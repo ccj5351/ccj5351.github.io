@@ -11,18 +11,48 @@ title: Changjiang's Projects
 <link rel="stylesheet" type="text/css" href="/css/proj.css">
 <table cellspacing="1" cellpadding="3">
 
-
+<style>
+    .project-image-width {
+        width: 350px; /* You can change this value to whatever you need */
+    }
+</style>
 
 <!-- One project !!! -->
 <!-- End of One project !!! -->
 
 <!-- One project !!! -->
 <tr>
-<td style="width: 550px">
-<img alt="riav-mvs" src="files/riavmvs-cvpr2023/overview-archi.png" width="515" >
+<td >
+<img alt="" src="files/naruto-cvpr2024/naruto-method.png" class="project-image-width">
 </td>
 
-<td class="style6" style="width: 612px"> 
+<td class="style6" style="width: 700px"> 
+<h4 class="style1"> A neural active reconstruction system with uncertainty learning for high-fidelity surface reconstruction: </h4>
+<ul>
+<li class="style1"> Ziyue Feng, Huangying Zhan, Zheng Chen, Qingan Yan, Xiangyu Xu, <strong>Changjiang Cai</strong>, Bing Li, Qilun Zhu, Yi Xu, &quot;<a href="https://arxiv.org/pdf/2402.18771" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> 
+NARUTO: Neural Active Reconstruction from Uncertain Target Observations   </span></a>
+&quot;, <span class="style14">
+	<span style="mso-fareast-font-family: SimSun; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
+
+in </span><em><span class="style14"> IEEE Conf. on Computer Vision and Pattern Recognition (CVPR'2024) </span></em> <span class="style14">, Seattle, US, Jun. 2024.</span>
+</span>
+<a href="https://oppo-us-research.github.io/NARUTO-website/" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Project Page]</span></a>, 
+<a href="https://github.com/oppo-us-research/NARUTO" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Code]</span></a> 
+</li>
+
+</ul>
+</td>
+</tr>
+<!-- End of One project !!! -->
+
+
+<!-- One project !!! -->
+<tr>
+<td >
+<img alt="riav-mvs" src="files/riavmvs-cvpr2023/overview-archi.png" class="project-image-width">
+</td>
+
+<td class="style6" style="width: 700px"> 
 <h4 class="style1"> A “Learning-to-optimize” Paradigm for MVS Depth Estimation: </h4>
 <ul>
 <li class="style1"> <strong>Changjiang Cai</strong>, Pan Ji, Qingan Yan, Yi Xu, &quot;<a href="https://arxiv.org/pdf/2205.14320.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> 
@@ -47,7 +77,7 @@ in </span><em><span class="style14"> IEEE Conf. on Computer Vision and Pattern R
 <!-- One project !!! -->
 <tr>
 <td style="width: 550px">
-<img alt="planemvs" src="files/planemvs-cvpr2022/planemvs_head.png" width="515" >
+<img alt="planemvs" src="files/planemvs-cvpr2022/planemvs_head.png" class="project-image-width" >
 </td>
 
 <td class="style6" style="width: 612px"> 
@@ -74,7 +104,7 @@ in </span><em><span class="style14"> IEEE Conf. on Computer Vision and Pattern R
 <!-- One project !!! -->
 <tr>
 <td style="width: 550px">
-<img alt="msnet" src="files/dafstereonet-3dv2020/network-architecture.png" width="515" >
+<img alt="msnet" src="files/dafstereonet-3dv2020/network-architecture.png" class="project-image-width">
 <!-- img alt=" msnet" src="files/dafstereonet-3dv2020/2D-3D-deep-stereo-nets.png" width="515" --> 
 </td>
 
@@ -107,7 +137,7 @@ in </span><em><span class="style14">  International Conference on 3D Vision (3DV
 <!-- One project !!! -->
 <tr>
 <td style="width: 550px">
-<img alt=" msnet" src="files/msnet-3dv2020/msnet-archi-02.png" width="515">
+<img alt=" msnet" src="files/msnet-3dv2020/msnet-archi-02.png" class="project-image-width">
 </td>
 
 <td class="style6" style="width: 612px"> 
@@ -141,7 +171,7 @@ in </span><em><span class="style14">  International Conference on 3D Vision (3DV
 <!-- One project !!! -->
 <tr>
 <td style="width: 550px">
-<img alt=" cbmv" src="files/hmr-rgbd/pipeline.png" width="515">
+<img alt=" cbmv" src="files/hmr-rgbd/pipeline.png" class="project-image-width">
 </td>
 
 <td class="style6" style="width: 612px"> 
@@ -162,7 +192,7 @@ arXiv:1911.07383 </span> </span>
 <!-- One project !!! -->
 <tr>
 <td style="width: 550px">
-<img alt=" cbmv" src="files/cvpr-cbmv-2019/pipeline.png" width="515">
+<img alt=" cbmv" src="files/cvpr-cbmv-2019/pipeline.png" class="project-image-width">
 </td>
 
 <td class="style6" style="width: 612px"> 
@@ -198,7 +228,7 @@ in Proc. </span><em><span class="style14">IEEE Conf. on Computer Vision and Patt
 <!-- One project !!! Crowdsourcing: Budget-conscious Ranking by Non-interactive Crowdsourcing -->
 <tr>
 <td style="width: 550px">
-<img alt=" crowdsourcing" src="files/crowdsourcing/fig-1.png" width="515">
+<img alt=" crowdsourcing" src="files/crowdsourcing/fig-1.png" class="project-image-width">
 </td>
 
 <td class="style6" style="width: 612px"> 
@@ -225,8 +255,8 @@ in Proc. </span><em><span class="style14">IEEE Conf. on Computer Vision and Patt
 <tr>
 <td style="width: 550px">
 <p> </p>
-<img alt=" epitome " src="files/epitome/workflow-1.png" width="265">
-<img alt=" epitome " src="files/epitome/workflow-2.png" width="250">
+<img alt=" epitome " src="files/epitome/workflow-1.png" width="180">
+<img alt=" epitome " src="files/epitome/workflow-2.png" width="170">
 </td>
 
 <td class="style6" style="width: 612px"> 
@@ -250,9 +280,9 @@ in Proc. </span><em><span class="style14">IEEE Conf. on Computer Vision and Patt
 <tr>
 <td style="width: 550px">
 <p> </p>
-<img alt="assistive robot 1" src="files/assistive-robot/assistive-robot-01.jpg" width="133">
-<img alt="assistive robot 2" src="files/assistive-robot/assistive-robot-02.jpg" width="143">
-<img alt="assistive robot 2" src="files/assistive-robot/driving-system-3D-model.jpg" width="239">
+<img alt="assistive robot 1" src="files/assistive-robot/assistive-robot-01.jpg" width="85">
+<img alt="assistive robot 2" src="files/assistive-robot/assistive-robot-02.jpg" width="91">
+<img alt="assistive robot 2" src="files/assistive-robot/driving-system-3D-model.jpg" width="165">
 </td>
 
 <td class="style6" style="width: 612px"> 
