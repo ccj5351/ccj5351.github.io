@@ -83,5 +83,6 @@ to start the research in the field of computer vision. Cheers!
   - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23)
   - International Conference on Computer Vision (ICCV'23)
   - Conference on Neural Information Processing Systems (NeurIPS'23)
+  - European Conference on Computer Vision (ECCV'24)
 
 
