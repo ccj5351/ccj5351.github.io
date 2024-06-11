@@ -10,6 +10,11 @@ title: Changjinag's Publications
 
 ## Publications
 
+- > NARUTO: Neural Active Reconstruction from Uncertain Target Observations  
+    Ziyue Feng, Huangying Zhan, Zheng Chen, Qingan Yan, Xiangyu Xu, **Changjiang Cai**, Bing Li, Qilun Zhu, Yi Xu   
+    IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024   
+    [**arXiv**](https://arxiv.org/pdf/2402.18771)
+
 - > RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo  
     **Changjiang Cai**, Pan Ji, Qingan Yan, Yi Xu   
     IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023   

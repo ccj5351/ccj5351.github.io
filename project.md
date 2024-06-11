@@ -37,7 +37,9 @@ NARUTO: Neural Active Reconstruction from Uncertain Target Observations   </span
 in </span><em><span class="style14"> IEEE Conf. on Computer Vision and Pattern Recognition (CVPR'2024) </span></em> <span class="style14">, Seattle, US, Jun. 2024.</span>
 </span>
 <a href="https://oppo-us-research.github.io/NARUTO-website/" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Project Page]</span></a>, 
-<a href="https://github.com/oppo-us-research/NARUTO" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Code]</span></a> 
+<a href="https://github.com/oppo-us-research/NARUTO" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Code]</span></a>, 
+<a href="https://www.youtube.com/watch?v=SsWdB-_5XM0" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Video]</span></a>, 
+<a href="https://github.com/oppo-us-research/NARUTO-website/blob/main/static/images/cvpr24_poster_naruto.png" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Poster]</span></a>.
 </li>
 
 </ul>
@@ -91,7 +93,11 @@ in </span><em><span class="style14"> IEEE Conf. on Computer Vision and Pattern R
 in </span><em><span class="style14"> IEEE Conf. on Computer Vision and Pattern Recognition (CVPR'2022) </span></em> <span class="style14">, New Orleans, USA, Jun. 2022.</span>
 </span>
 
-<a href="files/planemvs-cvpr2022/planemvs-poster.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Poster]</span></a>.
+<a href="https://oppo-us-research.github.io/PlaneMVS/" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Project Page]</span></a>, 
+<a href="https://github.com/oppo-us-research/PlaneMVS" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Code]</span></a>, 
+<a href="https://www.youtube.com/watch?v=yPoWc79XYsQ" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Video]</span></a>, 
+<a href="files/planemvs-cvpr2022/planemvs-poster.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Poster]</span></a>,
+<a href="https://oppo-us-research.github.io/PlaneMVS/static/images/cvpr22_slide_PlaneMVS.pdf" target="_blank" style="COLOR: #0000ee; TEXT-DECORATION: underline; text-underline: single"><span class="style14"> [Slide]</span></a>.
 
 </li>
 
