@@ -21,7 +21,7 @@ in China.
 
 
 ## News
-- 2024/06/10: [Code](https://github.com/oppo-us-research/PlaneMVS) of our PlaneMVS (CVPR'22) was released per institutional approval. It is a late release but we made big upgrade to the code for running on latest PyTorch, CUDA and GPUs. Please have a try!
+- 2024/06/10: [Code](https://github.com/oppo-us-research/PlaneMVS) of our PlaneMVS (CVPR'22) was released per institutional approval. It is a late release but we made a major upgrade to the code for running on latest PyTorch, CUDA and GPUs. Please have a try!
 - 2024/02/26: One paper [NARUTO](https://arxiv.org/abs/2402.18771) was accepted by CVPR'24. See [project page](https://oppo-us-research.github.io/NARUTO-website/) and [code](https://oppo-us-research.github.io/NARUTO-website/). Congrats and great thanks to the first authors [Huangying](https://huangying-zhan.github.io/) and [Ziyue](https://ziyue.cool/)!
 - 2023/06/20: Will virtually attend CVPR'23 and present our poster paper (**poster tag: TUE-AM-087**) on Tuesday, June 20, 2023. Please check our paper at this [Project Page](http://www.changjiangcai.com/riav-mvs.github.io/).
 - 2023/06/07: Served as a reviewer (of 6 papers) for NeurIPS'23.
