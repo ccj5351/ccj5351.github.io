@@ -13,17 +13,17 @@ title: Changjinag's Publications
 - > NARUTO: Neural Active Reconstruction from Uncertain Target Observations  
     Ziyue Feng, Huangying Zhan, Zheng Chen, Qingan Yan, Xiangyu Xu, **Changjiang Cai**, Bing Li, Qilun Zhu, Yi Xu   
     IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024   
-    [**arXiv**](https://arxiv.org/pdf/2402.18771)
+    [**arXiv**](https://arxiv.org/pdf/2402.18771), [**Code**](https://github.com/oppo-us-research/NARUTO), [**Poster**]({% link files/naruto-cvpr2024/cvpr24_poster_naruto.png %}), [**Project Page**](https://oppo-us-research.github.io/NARUTO-website/)
 
 - > RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo  
     **Changjiang Cai**, Pan Ji, Qingan Yan, Yi Xu   
     IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023   
-    [**arXiv**](https://arxiv.org/pdf/2205.14320.pdf)
+    [**arXiv**](https://arxiv.org/pdf/2205.14320.pdf), **Code**(to-be-released), [**Poster**]({% link files/riavmvs-cvpr2023/cvpr23_poster_RIAV-MVS.pdf %}), [**Slides**]({% link files/riavmvs-cvpr2023/RIAV-MVS-Slides-CVPR2023.pdf %}, [**Project Page**](http://www.changjiangcai.com/riav-mvs.github.io/)
 
 - > PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo  
     Jiachen Liu, Pan Ji, Nitin Bansal, **Changjiang Cai**, Qingan Yan, Xiaolei Huang, Yi Xu   
     IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022   
-    [**arXiv**](https://arxiv.org/abs/2203.12082)
+    [**arXiv**](https://arxiv.org/abs/2203.12082), [**Code**](https://github.com/oppo-us-research/PlaneMVS), [**Poster**]({% link files/planemvs-cvpr2022/planemvs-poster.pdf %}), [**Slides**]({% link files/planemvs-cvpr2022/planemvs-slides.pdf %}, [**Project Page**](https://oppo-us-research.github.io/PlaneMVS/)
 
 - > Do End-to-end Stereo Algorithms Under-utilize Information?  
     **Changjiang Cai**, Philippos Mordohai   
