@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "How to learn Diffusion Models Step by Step" 
 date: 2024-09-01
 ---
