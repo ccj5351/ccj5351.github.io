@@ -13,5 +13,6 @@ Diffusion models are quite popular. Please see the study notes to learn it step 
 
 
 My study notes.
-1. [The Annotated Diffusion Model and Study Notes](https://github.com/ccj5351/studynotes/blob/master/auto-encoding/annotated_diffusion.ipynbd).
-2. [Attention and Linear Attention](https://github.com/ccj5351/studynotes/blob/master/auto-encoding/attention-and-linear-attention.md).
+1. [What are Diffusion Models and Study Notes](https://github.com/ccj5351/studynotes/blob/master/auto-encoding/What-are-Diffusion-Models.ipynb).
+2. [The Annotated Diffusion Model and Study Notes](https://github.com/ccj5351/studynotes/blob/master/auto-encoding/annotated_diffusion_code.ipynbd).
+3. [Attention and Linear Attention](https://github.com/ccj5351/studynotes/blob/master/auto-encoding/attention-and-linear-attention.md).
