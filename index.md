@@ -6,9 +6,10 @@ title: Changjiang's Homepage
 
 ## About Me
 
-I am serving as a Staff Research Engineer in 3D Computer Vision, at InnoPeak Technology, Inc. (a.k.a. OPPO US Research Center), Palo Alto, CA, to solve problems in 3D reconstruction and Augmented Reality via leveraging my knowledge in Computer Vision and Machine Learning.
+I am serving as a Research Engineer at OPPO US Research Center (InnoPeak Technology), Palo Alto, CA. My projects at OPPO range from learnable ISP (RAW-to-sRGB) and image/video super-resolution and enhancement for mobile devices, to 3D reconstruction for XR headsets. I also enjoy investigating network architectures and compression for on-device deployment. My work aims to advance the capabilities and applications of 2D/3D vision and machine perception technologies.
 
-I received my Ph.D. degree of Computer Science from <a href = "http://www.stevens.edu" target = "_blank"> 
+
+I earned my Ph.D. in Computer Science from <a href = "http://www.stevens.edu" target = "_blank"> 
 Stevens Institute of Technology</a>, with the guidance of my advisor, <a href = "https://mordohai.github.io/" target = "_blank"> 
 Professor Philippos Mordohai, </a> in the field of computer vision, focusing on 3D reconstruction by binocular and multi-view stereo matching.
 
@@ -21,6 +22,8 @@ in China.
 
 
 ## News
+- 2024/11/10: [Code](https://github.com/oppo-us-research/riav-mvs) and models of our RIAV-MVS (CVPR'23) were released per institutional approval. Our prediction on ScanNet is still among SOTA methods. Hope it will help. Please have a try!
+- 2024/10/01: Check my up-to-date **Blog and Study Notes** at this new site - [https://www.changjiangcai.com/mystudynotes/](https://www.changjiangcai.com/mystudynotes/)
 - 2024/06/10: [Code](https://github.com/oppo-us-research/PlaneMVS) of our PlaneMVS (CVPR'22) was released per institutional approval. It is a late release but we made a major upgrade to the code for running on latest PyTorch, CUDA and GPUs. Please have a try!
 - 2024/02/26: One paper [NARUTO](https://arxiv.org/abs/2402.18771) was accepted by CVPR'24. See [project page](https://oppo-us-research.github.io/NARUTO-website/) and [code](https://oppo-us-research.github.io/NARUTO-website/). Congrats and great thanks to the first authors [Huangying](https://huangying-zhan.github.io/) and [Ziyue](https://ziyue.cool/)!
 - 2023/06/20: Will virtually attend CVPR'23 and present our poster paper (**poster tag: TUE-AM-087**) on Tuesday, June 20, 2023. Please check our paper at this [Project Page](http://www.changjiangcai.com/riav-mvs.github.io/).
@@ -78,11 +81,11 @@ to start the research in the field of computer vision. Cheers!
 - Reviewer for the following conferences:
   - ACM Multimedia Conference 2020 (ACMMM’20)
   - ACM Multimedia Conference 2021 (ACMMM’21)
-  - AAAI Conference on Artificial Intelligence (AAAI'22)
+  - AAAI Conference on Artificial Intelligence (AAAI'22,'25)
   - International Conference on Pattern Recognition (ICPR'22)
   - International Conference on Multimedia Information Processing and Retrieval (MIPR'22)
   - ACM Multimedia Conference 2022 (ACMMM’22)
-  - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23)
+  - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23,'25)
   - International Conference on Computer Vision (ICCV'23)
   - Conference on Neural Information Processing Systems (NeurIPS'23)
   - European Conference on Computer Vision (ECCV'24)
