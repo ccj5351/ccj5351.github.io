@@ -5,4 +5,4 @@ date: 2024-09-14
 ---
 
 
-See my study note [Attention and Linear Attention](https://github.com/ccj5351/studynotes/blob/master/auto-encoding/attention-and-linear-attention.md).
+See my study note [Attention and Linear Attention](https://www.changjiangcai.com/mystudynotes/attention-and-linear-attention/).
