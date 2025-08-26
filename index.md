@@ -6,8 +6,9 @@ title: Changjiang's Homepage
 
 ## About Me
 
-I am serving as a Research Engineer at OPPO US Research Center (InnoPeak Technology), Palo Alto, CA. My projects at OPPO range from learnable ISP (RAW-to-sRGB) and image/video super-resolution and enhancement for mobile devices, to 3D reconstruction for XR headsets. I also enjoy investigating network architectures and compression for on-device deployment. My work aims to advance the capabilities and applications of 2D/3D vision and machine perception technologies.
+I am serving as a Research Scientist at Meta, New York, on the ML Modeling and Optimization team within AR Input & Interaction of Reality Labs, where I focus on R&D in AR and on-device AI. My research interests lie at the intersection of 3D vision, machine learning, and generative AI. I also enjoy investigating network architectures and compression for on-device deployment. My work aims to advance the capabilities and applications of 2D/3D vision and machine perception technologies, contributing to innovative solutions in human-computer interaction.
 
+Prior to that, I was a Research Engineer at OPPO US Research Center (InnoPeak Technology) in Palo Alto, CA, from June 2021 to May 2025. My projects at OPPO spanned from learnable ISP (RAW-to-sRGB) and image/video super-resolution and enhancement for mobile devices, to 3D reconstruction for XR headsets.
 
 I earned my Ph.D. in Computer Science from <a href = "http://www.stevens.edu" target = "_blank"> 
 Stevens Institute of Technology</a>, with the guidance of my advisor, <a href = "https://mordohai.github.io/" target = "_blank"> 
@@ -22,6 +23,11 @@ in China.
 
 
 ## News
+
+- 2025/06/13: Recongnized as an Outstanding Reviewer for CVPR 2025.
+- 2025/06/02: Started a new role as an Applied Research Scientist at Meta, NYC.
+- 2025/03/--: One paper was accepted to LNCS 2025: [Dynamic voxel grid optimization for high-fidelity rgb-d supervised surface reconstruction](https://arxiv.org/pdf/2304.06178).
+- 2025/02/26: One paper [ActiveGAMER](https://arxiv.org/pdf/2501.06897) was accepted by CVPR'25. See [project page](https://oppo-us-research.github.io/ActiveGAMER-website/) and [code](https://github.com/oppo-us-research/ActiveGAMER). Congrats and great thanks to the first authors [Liyan](https://scholar.google.com/citations?user=ZU9JhNYAAAAJ&hl=en) and [Huangying](https://huangying-zhan.github.io/)!
 - 2024/11/10: [Code](https://github.com/oppo-us-research/riav-mvs) and models of our RIAV-MVS (CVPR'23) were released per institutional approval. Our prediction on ScanNet is still among SOTA methods. Hope it will help. Please have a try!
 - 2024/10/01: Check my up-to-date **Blog and Study Notes** at this new site - [https://www.changjiangcai.com/mystudynotes/](https://www.changjiangcai.com/mystudynotes/)
 - 2024/06/10: [Code](https://github.com/oppo-us-research/PlaneMVS) of our PlaneMVS (CVPR'22) was released per institutional approval. It is a late release but we made a major upgrade to the code for running on latest PyTorch, CUDA and GPUs. Please have a try!
@@ -77,17 +83,17 @@ to start the research in the field of computer vision. Cheers!
   - IEEE Transactions on Image Processing (TIP)
   - IEEE Transactions on Multimedia (TMM)
   - International Journal of Computer Vision (IJCV)
+  - Springer Multimedia Systems
+  - Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 
 - Reviewer for the following conferences:
-  - ACM Multimedia Conference 2020 (ACMMM’20)
-  - ACM Multimedia Conference 2021 (ACMMM’21)
-  - AAAI Conference on Artificial Intelligence (AAAI'22,'25)
+  - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23,'24,'25)
+  - International Conference on Computer Vision (ICCV'23,'25)
+  - European Conference on Computer Vision (ECCV'24)
+  - Conference on Neural Information Processing Systems (NeurIPS'23,'25)
+  - AAAI Conference on Artificial Intelligence (AAAI'22,'23,'25,'26)
   - International Conference on Pattern Recognition (ICPR'22)
   - International Conference on Multimedia Information Processing and Retrieval (MIPR'22)
-  - ACM Multimedia Conference 2022 (ACMMM’22)
-  - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23,'25)
-  - International Conference on Computer Vision (ICCV'23)
-  - Conference on Neural Information Processing Systems (NeurIPS'23)
-  - European Conference on Computer Vision (ECCV'24)
+  - ACM Multimedia Conference (ACMMM’20,'21,'22)
 
 
