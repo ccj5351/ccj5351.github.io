@@ -24,7 +24,7 @@ in China.
 
 ## News
 
-- 2025/06/13: Recongnized as an Outstanding Reviewer for CVPR 2025.
+- 2025/06/13: Recognized as an Outstanding Reviewer for CVPR 2025.
 - 2025/06/02: Started a new role as an Applied Research Scientist at Meta, NYC.
 - 2025/03/--: One paper was accepted to LNCS 2025: [Dynamic voxel grid optimization for high-fidelity rgb-d supervised surface reconstruction](https://arxiv.org/pdf/2304.06178).
 - 2025/02/26: One paper [ActiveGAMER](https://arxiv.org/pdf/2501.06897) was accepted by CVPR'25. See [project page](https://oppo-us-research.github.io/ActiveGAMER-website/) and [code](https://github.com/oppo-us-research/ActiveGAMER). Congrats and great thanks to the first authors [Liyan](https://scholar.google.com/citations?user=ZU9JhNYAAAAJ&hl=en) and [Huangying](https://huangying-zhan.github.io/)!
